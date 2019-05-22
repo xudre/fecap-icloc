@@ -1,0 +1,19 @@
+.app-layout .mdl-layout__header,
+.app-layout .mdl-layout__drawer-button {
+  color: white;
+}
+
+.app-layout .mdl-layout__drawer-button {
+  left: auto;
+  right: 0;
+}
+
+.app-layout .mdl-layout__drawer {
+  left: auto;
+  right: 0;
+  transform: translate(250px);
+}
+
+.app-layout .mdl-layout__drawer.is-visible {
+  transform: translate(0);
+}

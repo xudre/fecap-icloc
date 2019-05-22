@@ -1,0 +1,100 @@
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section.banner {
+  height: 30vh;
+  background-color: green;
+}
+
+section.palestras {
+
+}
+
+section.palestrantes {
+
+}
+
+section.info {
+  width: 100%;
+  padding: 0;
+  margin: 2rem 0 0;
+}
+
+section.info a {
+  display: block;
+  position: relative;
+  width: 50%;
+  height: 25vh;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+section.info a:nth-child(1) {
+  border-right: 1px solid white;
+}
+
+section.info a:nth-child(2) {
+  border-left: 2px solid white;
+}
+
+section h6 {
+  width: 100%;
+  padding: 0 1rem;
+}
+
+section ul {
+  width: 100%;
+}
+
+section ul li {
+  display: flex;
+  position: relative;
+  padding: 1rem;
+  overflow: hidden;
+}
+
+section ul li div {
+  width: 100%;
+}
+
+section ul li h3 {
+  margin-top: 0;
+}
+
+section ul li h4 {
+  margin-bottom: 0;
+}
+
+section ul li i {
+  font-size: 2rem;
+  line-height: 40px !important;
+}
+
+section button {
+  flex: auto;
+  margin: 1rem 1rem 0 50vw !important;
+}
+
+section.palestrantes li > div:first-child {
+  min-width: 40px;
+  max-width: 40px;
+  height: 40px;
+  text-align: center;
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 1rem;
+}
+
+section.palestrantes li > div:first-child i {
+  font-size: 1.5rem;
+}
+
+section.palestrantes li h3 {
+  width: 100%;
+  margin-bottom: 0;
+}
