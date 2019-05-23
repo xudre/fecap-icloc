@@ -1,5 +1,4664 @@
 {
-  "locations": [
-
-  ]
+  "content": [
+    {
+      "name": "Bloco A",
+      "floor": [
+        {
+          "name": "3º andar",
+          "room": [
+            {
+              "name": "Lab. Informática 313",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 029",
+                      "work": [
+                        "E agora virou pó: O museu nacional em chamas",
+                        "Família e a busca pela identidade",
+                        "Lampião, lá do sertão - a aprendizagem mediada pela arte",
+                        "Praticas e estrategias pedagógicas para formar crianças que respeita a diversidade..."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 164",
+                      "work": [
+                        "Bio MasterChef",
+                        "Caracterização e Gravimetria de Resíduos: uma prática de mão na massa em Diadema – SP",
+                        "Etnobotânica: extração de pigmentos naturais.",
+                        "Metodologias ativas: Uma proposta de Biologia para o Ensino Médio"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 225",
+                      "work": [
+                        "Comunicação e Ação",
+                        "DIVERSIDADE CULTURAL – ÁFRICA: PATRIMÔNIO MATERIAL E IMATERIAL BRASILEIRO",
+                        "Projeto Recrio"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 310",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 031",
+                      "work": [
+                        "A HISTÓRIA DA MONARQUIA NO BRASIL",
+                        "Projeto Jack visita o Saci",
+                        "Taboão da Serra: história e memória na escola",
+                        "Uma leitura kafkiana dos corpos escolarizados"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 142",
+                      "work": [
+                        "Aula maker como estratégia de ensino para o currículo de Ciências Naturais.",
+                        "Deficiência e Mobilidade Urbana: desenvolvimento de ações para o alcance de equidade social",
+                        "Frankenstein e as próteses modernas",
+                        "Verminoses"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 227",
+                      "work": [
+                        "A QUADRA TAMBÉM É SALA DE AULA! APRENDIZAGENS SIGNIFICATIVAS COM AULAS DE EDUCAÇÃO FÍSICA",
+                        "Futebol e sua representação social",
+                        "FUTEBOL E TECNOLOGIA: EM CONSTRUÇÃO",
+                        "Golfe Coletivo"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 311",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 032",
+                      "work": [
+                        "Animais híbridos e onde habitam.",
+                        "Dá pra fazer com tecnologia!",
+                        "I-Mindfulness: uma estratégia digital de concentração",
+                        "Xadrez e Fabricação Digital"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 140",
+                      "work": [
+                        "Avaliações adaptadas de Química e Física (9ºano) para aluno com desenvolvimento atípico",
+                        "Microscópio Caseiro - aplicando conceitos estudados",
+                        "Uso do aplicativo PLICKERS como ferramenta pedagógica."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 228",
+                      "work": [
+                        "A realidade dos refugiados em sala de aula",
+                        "Brasil Regiões - o estudo dinâmico da Geografia.",
+                        "JUNIOR - WORLD CUP ALBUM",
+                        "LUDICIDADE COMO RECURSO PEDAGÓGICO MULTIDISCIPLINAR - ÁLBUM DE FIGURINHAS"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 312",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 074",
+                      "work": [
+                        "A IMPORTÂNCIA DA AVALIAÇÃO DIAGNÓSTICA NO ENSINO PROFISSIONALIZANTE TÉCNICO DE NIVEL MÉDIO MODULAR N",
+                        "A INFLUÊNCIA DAS COMPETÊNCIAS SOCIOEMOCIONAIS DO DOCENTE NO PROCESSO DE ENSINO E APRENDIZAGEM",
+                        "O USO DE GAMIFICAÇÃO COMO METODOLOGIA NO PROCESSO DE APRENDIZAGEM DE JOVENS E ADULTOS DO ENSINO MÉDI",
+                        "Práticas Pedagógicas para o Ensino Técnico Integrado ao Ensino Médio"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 171",
+                      "work": [
+                        "Educação Física no Ensino Médio integrado do IFSP: diálogos e tensões",
+                        "Educação Física no Ensino Médio: reformas, resistências e formação da cidadania",
+                        "Treinamento Funcional na Escola"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 237",
+                      "work": [
+                        "A produção de legendas para compor um guia do bairro: uma proposta bilíngue",
+                        "Indicações de leitura: conhecer o outro e a si mesmo",
+                        "O jornal como ferramenta pedagógica",
+                        "Uma proposta de ensino-aprendizagem: os gêneros textuais como base para as práticas de Língua Portug"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 318",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 069",
+                      "work": [
+                        "Biotecnologia e Nanotecnologia como inspiração para a construção de objetos eletrônicos",
+                        "Elaboração de jogos educativos sobre relações ecológicas por alunos do Ensino Médio",
+                        "O uso de animações como instrumento para aula invertida",
+                        "REVISTA BIOÉTICA: UMA PROPOSTA INTERDISCIPLINAR, VALORIZANDO COMPETÊNCIAS E GÊNEROS DO DISCURSO"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 132",
+                      "work": [
+                        "“Poesia que transforma”",
+                        "Animassombra: animação de contos de assombração de autoria",
+                        "Mapas Conceituais nas séries iniciais",
+                        "Releituras e outras linguagens: além da escrita"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 278",
+                      "work": [
+                        "Carnaval literário",
+                        "\"Memórias vívidas de Brás Cubas: tradição, inovação e apropriação... diálogos.\t\"",
+                        "Metodologias Ativas e leitura transposição de gênero na obra Morte e Vida Severina.",
+                        "Projeto PACKS (Pacote de Atividades Culturais)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 319",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 098",
+                      "work": [
+                        "O Esperanto como Facilitador da Aprendizagem de Língua Inglesa",
+                        "O impacto do Programa Paraná Fala Inglês na Universidade Estadual do Norte do Paraná",
+                        "SHATTERED BARRIERS: O USO DE METODOLOGIAS ATIVAS NA QUEBRA DE BARREIRAS DA LINGUAGEM."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 133",
+                      "work": [
+                        "Apreender com Solidariedade",
+                        "CATEGORIA FEMININA EM XEQUE",
+                        "Vivenciando o sistema monetário"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 282",
+                      "work": [
+                        "AVALIAR OU EXAMINAR: A oralidade como eixo demonstrativo de competências e habilidades",
+                        "COC Debate - Crise penitenciária e violência urbana",
+                        "ESTRATÉGIAS, METODOLOGIA E REFLEXÕES NO ENSINO DE CIÊNCIAS HUMANAS: O CASO DO PROJETO VIDA E OBRA"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 320",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 036",
+                      "work": [
+                        "“HISTÓRIA, TEMPO E ARTE: AS MEMÓRIAS E A (RE)CONSTRUÇÃO DO EU”",
+                        "Literatura e acolhimento: uma experiência com crianças imigrantes em São Paulo",
+                        "Recoloring my world/Recolorindo meu mundo",
+                        "Você é especial – Desenvolvendo as habilidades socioemocionais e combate ao bullying"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 134",
+                      "work": [
+                        "“Bazar das Estrelas”",
+                        "Materiais Concretos na Investigação Matemática",
+                        "Olímpiadas de Matemática",
+                        "Trabalho com Sequências Pictóricas no 2o ano do EF1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 215",
+                      "work": [
+                        "BRINCANDO, DESCOBRINDO E INVENTANDO MÚSICA",
+                        "O diálogo entre artes visuais e música",
+                        "Quando Rubem Alves virou canção"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 321",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 076",
+                      "work": [
+                        "Apoio Pedagógico - práticas pedagógicas integradas",
+                        "Clubes Ted-Ed",
+                        "Simulação de Entrevista de Emprego"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 186",
+                      "work": [
+                        "Debate eleitoral: Diálogo sobre a sociedade – um exercício de política",
+                        "Itinerário Formativo: Jogo da Política",
+                        "Metodologias Ativas no Ensino da Sociologia",
+                        "Que país é esse? O musical"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 262",
+                      "work": [
+                        "Ler por prazer: metodologias ativas aplicadas aos projetos de leitura no ensino fundamental II",
+                        "O Cordel Digital: a intermidialidade como propagação de cultura",
+                        "Projeto Leitura Digital",
+                        "Projeto Li e Gostei"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "5º andar",
+          "room": [
+            {
+              "name": "Sala 501",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 017",
+                      "work": [
+                        "Atendimento a pais na escola de educação infantil - Escutar ou orientar?",
+                        "\"Multiculturalismo na Educação Infantil: \"\"O índio mora na Índia?\"\"\"",
+                        "Quem come bem, cresce bem.",
+                        "Superamigos S.A."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 173",
+                      "work": [
+                        "ESTUDO DO MEIO - BERTIOGA - Litoral Norte - Características dos diferentes ecossistemas.",
+                        "O TRABALHO DE CAMPO COMO FERRAMENTA DO PROCESSO DE ENSINO-APRENDIZAGEM SIGNIFICATIVA",
+                        "O uso do sensoriamento remoto na analise urbana: o caso do município de Taboao Da Serra"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 257",
+                      "work": [
+                        "A brave new world: motivando o aluno de escola pública através do universo adolescente",
+                        "A história dos videoclipes",
+                        "Curtas: entre a Língua Inglesa e a Linguagem Afetiva",
+                        "English Day!"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 502",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 072",
+                      "work": [
+                        "A UTILIZAÇÃO DE BOARDGAMES PARA O TREINAMENTO DE HABILIDADES SOCIOEMOCIONAIS EM ADOLESCENTES COM TEA",
+                        "\"Aula em tempos de \"\"youtubers\"\" - Uma nova linguagem em sala de aula- produção de Videos e power Point\"",
+                        "O Papel da Escola em Tempos de Pós-Verdade",
+                        "PerfuMaker RB: O universo dos perfumes investigado pelas Ciências da Natureza"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 194",
+                      "work": [
+                        "A arte como mediação no componente curricular: O papel do arte - educador na interdisciplinaridade.",
+                        "A ARTE ORIENTAL",
+                        "Arte como um processo de aprendizagem e um fio condutor para extensão Familiar",
+                        "Sociologia e Teatro"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 260",
+                      "work": [
+                        "#FalaPrefeito",
+                        "Mulheres de Hoje, Mulheres de sempre",
+                        "Projeto Eleições",
+                        "Telejornal – A voz do CCA"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 503",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 030",
+                      "work": [
+                        "Atividades de Aventura na Escola : Utopia ou Realidade ?",
+                        "Eporte Paralímpico na escola.",
+                        "Lutas nas aulas de Educação Física",
+                        "Práticas Inclusivas nas aulas de Educação Física"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 160",
+                      "work": [
+                        "Atividades matemáticas com rotação de estações",
+                        "Gamificando uma lista de exercícios",
+                        "JogAção",
+                        "Uma experiência com projeto de matemática com temas transversais nas aulas de substituições"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 268",
+                      "work": [
+                        "A importância do lúdico para reconhecer os fenômenos relacionados com a ação dos genes",
+                        "Avaliação de índice fotomicrográfico em antibiótico aplicado a partir da divisão celular bacteriana",
+                        "ESTUDO DE GENÉTICA A PARTIR DA HERANÇA FAMILIAR",
+                        "Metodologias Ativas para Ensino Médio: Experimentação e Projeção Holográfica de um DNA II"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 504",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 068",
+                      "work": [
+                        "Introdução ao xadrez para o Fundamental II",
+                        "Logic SEB",
+                        "OLGA NO PAÍS DOS NÚMEROS",
+                        "Socioemocional integrado à Língua Portuguesa e Matemática (a prática na sala de aula)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 102",
+                      "work": [
+                        "Processo de Adaptação Escolar na Educação Infantil",
+                        "Projeto Cultural Abayomi Vai Passear Com Os Amigos",
+                        "Que roupa é essa?",
+                        "SACOLA LITERÁRIA-LÊ PRA MIM?"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 266",
+                      "work": [
+                        "Cartão postal - Protagonismo em diversas realidades.",
+                        "Cinema na Escola",
+                        "Editoração e produção gráfica",
+                        "O cinema como janela para o mundo contemporâneo"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 505",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 070",
+                      "work": [
+                        "DESAFIO DO CONHECIMENTO",
+                        "Qualificando para o futuro",
+                        "Usando as práticas antigas para despertar a criatividade."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 166",
+                      "work": [
+                        "1? encontro de empreendedor universitário",
+                        "METODOLOGIA DO PROTAGONISMO COMO PROCESSO DE ENSINO E APRENDIZAGEM",
+                        "Práticas e jogos como suporte do conhecimento",
+                        "VISITANDO UM MERCADO PET: INTERDISCIPLINARIDADE, GESTÃO DE NEGÓCIOS E OS CUIDADOS COM OS ANIMAIS"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 201",
+                      "work": [
+                        "“Tudo sobre mim”",
+                        "A cobra: nossa mascote.",
+                        "Borboletário: várias fases registradas pelo olhar infantil",
+                        "Olhar Científico na Educação Infantil"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 506",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 066",
+                      "work": [
+                        "A Etnomatemática das Mandalas: um olhar para a alteridade.",
+                        "MACKCOFRE – UM COFRE SOLIDÁRIO",
+                        "Mensagens Secretas"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 178",
+                      "work": [
+                        "Balcão de redação Crescimento: uma metodologia ativa para disciplina de Produção Textual",
+                        "Machado & Memes: ferramentas audiovisuais a serviço do ensino de Literatura.",
+                        "Música e teatro no Ensino Médio: uma proposta para o ensino do Trovadorismo",
+                        "OS CONTOS FANTÁSTICOS: uma releitura dos contos para a prática da leitura e da produção textual"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 202",
+                      "work": [
+                        "As Aventuras de Pandinha: Possibilidades pedagógicas em um curriculo flexível.",
+                        "DIREITO A SAÚDE E DEVER DE CUIDAR DO CORPO",
+                        "O Catálogo de Brinquedos",
+                        "Sala de Criação"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 507",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 007",
+                      "work": [
+                        "“O DIREITO DE BRINCAR: ENSINAR – APRENDER – SER FELIZ!”.",
+                        "Conhecendo criações e construções",
+                        "Projeto cidade"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 159",
+                      "work": [
+                        "“Conte um Conto”",
+                        "Aplicabilidade da Sintaxe no gênero Crônica",
+                        "Da tradição oral à tecnologia: o conto popular e a produção audiovisual como ferramenta de ensino.",
+                        "JORNAL MURAL - A VOZ DO CCA."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 265",
+                      "work": [
+                        "Cookies e proporção",
+                        "De polígonos a poliedros",
+                        "OFICINA DE GRÁFICOS",
+                        "Utilização de Ambientes Virtuais de Aprendizagem(AVA) para o ensino de estatística."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 508",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 083",
+                      "work": [
+                        "A MATEMÁTICA ASSOCIADA A TEORIA DOS CONJUNTOS PARA RESOLUÇÃO DE SITUAÇÕES PROBLEMAS",
+                        "Feira de Jogos",
+                        "Inequações Produto",
+                        "UTILIZAÇÃO DO AUTOCAD NA APRENDIZAGEM DA MATEMÁTICA: DETERMINAÇÃO DO LOGARITMO NATURAL"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 106",
+                      "work": [
+                        "Educando com a Horta: Aromas, Cores e Sabores.",
+                        "Projeto - Quem será que mora aí?",
+                        "Rodízio das abelhas: você sabe como uma colmeia educacional funciona?"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 264",
+                      "work": [
+                        "1ª Jornada de Matemática – DER SVI 2018",
+                        "Estações do conhecimento -Movimento SARESP",
+                        "Metodologias Ativas para o Ensino da Matemática",
+                        "Tema gerador: “Escola Sustentável – Horta Escolar” Questão matriz: Como aumentar a produção da horta"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 509",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 073",
+                      "work": [
+                        "“Vivência na Prática” - Hackathon no Ensino Técnico",
+                        "A experiência pioneira do Centro Paula Souza na implantação do Novo Ensino Médio",
+                        "A teoria das estratégias de marketing e a aplicação de casos reais e fictícios preparatórios",
+                        "Produção de plastico ecológico utilizando goma de mascar"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 181",
+                      "work": [
+                        "Estudo com o ciclo trigonométrico",
+                        "Folhas de acompanhamento multimídia-Potencializando o uso do Powerpoint/Keynote na sala de aula",
+                        "Pimba na Gorduchinha: A arte da matemática no dia-a dia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 277",
+                      "work": [
+                        "Além dos movimentos literários: por uma nova abordagem do ensino de literatura",
+                        "Intertextos: leitura e criação de uma HQ",
+                        "Literatura apátrida: Notas sobre o drama dos refugiados, de Édipo Tirano a Incêndios.",
+                        "Primeiramente, a cidade é nossa - produção de comentário crítico"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 510",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 093",
+                      "work": [
+                        "Competências Socioemocionais – Reflexões a partir da qualificação de professores tutores.",
+                        "Formação Continuada - Trabalho em grupos",
+                        "Sistema de avaliação - Uso de rubricas",
+                        "Uma nova organização da Avaliação Escolar: planejando, elaborando, aplicando e atribuindo notas"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 168",
+                      "work": [
+                        "A DIVERSIFICAÇÃO METODOLÓGICA NECESSÁRIA PARA UMA APRENDIZAGEM SIGNIFICATIVA NAS AULAS DE QUÍMICA.",
+                        "Iniciação Científica Junior: uma proposta de transformar a metodologia de pesquisa científica",
+                        "Método dos Trezentos",
+                        "Projeto RB Lab: Explorando conceitos de Física e Química através da Iniciação Científica Júnior"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 254",
+                      "work": [
+                        "Jogo da História: uma proposta de uso do conhecimento histórico",
+                        "Jogos Medievais",
+                        "XADREZ e HISTÓRIA"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bloco B",
+      "floor": [
+        {
+          "name": "1º andar",
+          "room": [
+            {
+              "name": "Ateliê de Artes",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 011",
+                      "work": [
+                        "A ATUALIZAÇÃO DA TEMÁTICA “CIRCO” NAS AULAS DE EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL.",
+                        "Estratégias para estimular a autonomia no 2º ano do Ensino Fundamental I",
+                        "O uso saudável da Tecnologia - Stop Motion",
+                        "Temática Copa do Mundo em parceria com escola e comunidade."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 175",
+                      "work": [
+                        "ENERGIAS RENOVÁVEIS SOB JÚRI",
+                        "Ensino investigativo no laboratório de Física - radiotelescópio didático e outras tecnologias",
+                        "O aluno como protagonista na aprendizagem do eletromagnetismo",
+                        "Possibilidades de uma eletiva de Física Quântica e as tecnologias quânticas 2.0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 274",
+                      "work": [
+                        "A geografia dos clássicos literários",
+                        "POPULAÇÃO MUNDIAL E FLUXOS MIGRATÓRIOS",
+                        "Projeto questões ambientais globais",
+                        "Utilização do Google Maps para identificação e discussão de elementos urbanos e/ou ambientais"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. Física",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 065",
+                      "work": [
+                        "A autonomia dos alunos nos trabalhos em grupo realizados nas aulas de língua portuguesa, como fazer?",
+                        "As Trilhas de leitura do Fundamental 2",
+                        "Literatura e Produção Textual: um novo olhar através da tecnologia",
+                        "Livre expressão e desenvolvimento da autonomia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 169",
+                      "work": [
+                        "Pirâmide Alimentar na Prática: aprendendo os conceitos iniciais em Nutrição de modo efetivo.",
+                        "PROJETO: DISSEMINANDO A IGUALDADE NO ENSINO FUNDAMENTAL",
+                        "Uso de material referencial teórico e prático para complemento e expansão do aprendizado no ensino",
+                        "Utilização de metodologias ativas de aprendizagem em sala de aula na ETEC de Marília/SP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 210",
+                      "work": [
+                        "A turma da janelinha",
+                        "Beyond Body Parts",
+                        "The grouchy ladybug",
+                        "Vivencia Interculturais Ampliadas"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. Química",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 075",
+                      "work": [
+                        "Aprendizagem Baseada em Problemas e Projetos como caminho de transição na reforma do Ensino Médio",
+                        "Metodologia de Pesquisa",
+                        "O USO DE VÍDEOS COMO METODOLOGIA NOS CURSOS DO EIXO DE TURISMO, HOSPITALIDADE E LAZER",
+                        "Super-Off ANÁLOGOS Cinema em Super 8"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 180",
+                      "work": [
+                        "A matemática transformando dados em informações no ensino médio",
+                        "Parábolas no cotidiano",
+                        "Possibilidades pedagógicas no uso de projetos interdisciplinares no ensino da Matemática"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 211",
+                      "work": [
+                        "“Palavras, muitas palavras”- Versos e rimas",
+                        "Doces valores",
+                        "OS CONTOS E A CULTURA RUSSA"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 104",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 087",
+                      "work": [
+                        "Aprendizagem por projetos: autonomia e protagonismo para uma educação significativa",
+                        "O food truck como modelo inovador de empreendedorismo educacional em tempos de crise",
+                        "Reciclathon - a maratona da reciclagem na escola",
+                        "Teoria e Pratica da Filosofia - Uma aproximação quanto a realidade do corpo discente"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 189",
+                      "work": [
+                        "Cotidiano Em Questão: O Pensamento Computacional Numa Perspectiva Interdisciplinar",
+                        "Friday For Fun",
+                        "Pequenos Empreendedores",
+                        "Quando compartilho meu conhecimento, aprendo muito mais"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 212",
+                      "work": [
+                        "“O que há de África em nós? – Miscigenação, cultura e oralidade”",
+                        "A construção do olhar para a curadoria na organização de exposições na escola",
+                        "MINDFULNESS E O BEM ESTAR INFANTIL",
+                        "Um percurso de formação inspirado na poesia do cotidiano"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 105",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 080",
+                      "work": [
+                        "Criticando e resenhando filme em inglês nos comentários do Youtube - Educação de surdes",
+                        "Ensino de língua inglesa pautado na Abordagem CCS e no Desenho Universal para Aprendizagem",
+                        "Produzindo poemas em inglês por intermédio de músicas"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 131",
+                      "work": [
+                        "Alfabeto corporal",
+                        "Cartas",
+                        "Musicalidade na Classificação das Palavras quanto ao número de sílabas",
+                        "O espaço da literatura em uma sala de 2º ano dos Anos Iniciais do Ensino Fundamental"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 269",
+                      "work": [
+                        "ComexWar Conhecimento em jogo de tabuleiro",
+                        "Compartilhando a experiência de Programas de Intercomplentariedade entre duas Redes Públicas de Ensi",
+                        "Gamification na educação para jovens empreededores",
+                        "Roteiro e Animação com os alunos de jogos digitais: A experiência do trabalho prático em grupo"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 106",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 005",
+                      "work": [
+                        "A BELEZA DA DIVERSIDADE",
+                        "Jardim Sensorial",
+                        "OLHAR, CONHECER E SE APROPRIAR POR MEIO DO BRINCAR",
+                        "Sentindo os Elementos com todos os Sentidos"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 105",
+                      "work": [
+                        "A aprendizagem criativa e educação maker no Infantil da Escola Lourenço Castanho",
+                        "Desenvolvendo múltiplas habilidades - Uma proposta de oficinas",
+                        "Educação Infantil - como transformar uma pergunta em um projeto? O caso dos aliens",
+                        "Jogos pelo mundo"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 209",
+                      "work": [
+                        "A brinquedoteca como um espaço de investigação e formação do professor",
+                        "A influência do espaço nas brincadeiras",
+                        "ESPAÇO PREPARADO COMO PROJETO DE RELAÇÕES",
+                        "Reflexões sobre as práticas integradas em Práticas de Linguagem no primeiro ciclo de F1"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2º andar",
+          "room": [
+            {
+              "name": "Sala 201",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 039",
+                      "work": [
+                        "Gênios do crime: narrativas de enigma",
+                        "Projeto de Leitura e Escrita de Biografia dentro de uma Proposta Bilíngue",
+                        "Viajantes Literários"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 115",
+                      "work": [
+                        "“INSCAPE 60” – ENTRANDO NO VALE DOS DINOSSAUROS",
+                        "Metamorfoses da vida: a lição das borboletas",
+                        "O uso de jogos no ensino de Ciências",
+                        "Sustentabilidade - o evento"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 213",
+                      "work": [
+                        "“A ARTE RESGATANDO BRINCADEIRAS : ALUNO QUE APRENDE”",
+                        "Cultura Indígena e Sustentabilidade",
+                        "Luz, Câmera e Criação.",
+                        "O artista como investigador do mundo! A Arte em suas diferentes linguagens na Ed. Infantil e Fund I"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 205",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 018",
+                      "work": [
+                        "COR: EMOÇÃO, IMPRESSÃO E EXPRESSÃO",
+                        "Mostra de Artes: Propostas envolvendo o imaginário",
+                        "Nosso amigo ventinho",
+                        "O Corpo na Arte: Movimento e Afetividade"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 116",
+                      "work": [
+                        "A arte de cultivar: relacionamentos, hortas e ervas aromáticas.",
+                        "Cata óleo",
+                        "Ciências e engenharia (STEM) na resolução de problemas - Água de suja para limpa.",
+                        "O USO CONSCIENTE DA ÁGUA NO SÉCULO XXI - Espaço maker em ação"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 214",
+                      "work": [
+                        "África",
+                        "Cor da pele de quem?",
+                        "Mas o que são Direitos Humanos? Projeto Linha 5 – Lilás Metrô",
+                        "Protagonistas de todas as cores"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 206",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 019",
+                      "work": [
+                        "A arte do circo na escola",
+                        "Como podemos usar o cinema para contar uma história?",
+                        "De marchinhas de carnaval a enredo: práticas pedagógicas vivenciadas e refletidas por meio da BNCC",
+                        "Interdisciplinariedade “A escola em tempos de transição: permanência e transformações”"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 117",
+                      "work": [
+                        "COMER BRINCANDO: PROJETO DE EDUCAÇÃO ALIMENTAR BASEADO EM JOGOS E BRINCADEIRAS EM ESCOLA PÚBLICA",
+                        "Educação Alimentar e Nutricional - Jogos, brincadeiras e culinária",
+                        "O Ensino de Ciências e a Formação do Aluno Pesquisador",
+                        "Recicla periferia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 232",
+                      "work": [
+                        "alfabetização acelerada",
+                        "Brincando com poemas e poesias na escola",
+                        "Casa Cultural",
+                        "O PROCESSO DE ENSINO-APRENDIZAGEM DA PRODUÇÃO TEXTUAL NO 5º ANO DO ENSINO FUNDAMENTAL"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 207",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 020",
+                      "work": [
+                        "ESTIMATIVA DO GANHO PEDAGÓGICO DO PROJETO HORTA EDUCATIVA SEE/FUSSESP",
+                        "Estudo do café",
+                        "Frutas Divertidas",
+                        "Lancheira Sem Descartáveis"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 118",
+                      "work": [
+                        "A Tecnologia em Favor da Educação",
+                        "Didática da Matemática no contexto escolar",
+                        "ensino de história",
+                        "RELATO DE EXPERIÊNCIAS SOBRE AS PRÁTICAS PEDAGÓGICAS NO ESTÁGIO SUPERVISIONADO DO CURSO DE PEDAGOGIA"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 216",
+                      "work": [
+                        "A VIDA DOS INSETOS",
+                        "Conhecendo e explorando as rochas",
+                        "Fábrica de Brinquedos",
+                        "Pequenos Cientistas"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 208",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 021",
+                      "work": [
+                        "Be nice to the worms - Nossa composteira em inglês",
+                        "Let’s Make a Compost!",
+                        "O sucesso de aula aula híbrida no modelo de rotação por estações",
+                        "Scaffolding language through social interaction to promote Content and Language Integrated Learning"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 119",
+                      "work": [
+                        "Educação Socioemocional e seus resultados",
+                        "\"Projeto \"\" Por onde Praças?\"\"\"",
+                        "Proposta de adaptação curricular - Desenvolvimento de Habilidades e competências"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 217",
+                      "work": [
+                        "Caixas da Natureza",
+                        "ECOPEDAGOGIA E A EDUCAÇÃO INFANTIL: A CRIANÇA PEQUENA ALFABETIZADA ECOLOGICAMENTE",
+                        "SAVE THE BEES",
+                        "Uma coisa vira outra"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 209",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 082",
+                      "work": [
+                        "Literalizando",
+                        "Práticas teatrais e aula de literatura",
+                        "The Naked Eye Gallery: desvendando os mistérios do renascimento"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 120",
+                      "work": [
+                        "“O Pequeno Príncipe”: da produção de textos a conhecimentos de Ciências, uma riqueza transversal",
+                        "Em busca de um mundo melhor!",
+                        "Escola em versos",
+                        "O desenvolvimento e a valorização das diferentes linguagens."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 218",
+                      "work": [
+                        "Ciclo da Vida",
+                        "Do ovo à galinha",
+                        "Sala de aula invertida- Grupos de Seres Vivos.",
+                        "Vem Passarinhar"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 210",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 023",
+                      "work": [
+                        "Alunos Empreendedores - Shark Tank Brasil",
+                        "Empreendedorismo, reciclagem e arte",
+                        "Empreendendo e Aprendendo",
+                        "Felicidade docente, aprendizagem discente. (Decente!) - O poder da positividade na escola."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 121",
+                      "work": [
+                        "Banca do Rena",
+                        "MOTIVAR OS ALUNOS PARA A PARTICIPAÇÃO - interação",
+                        "Ouvir e sentir: a música pelo olhar de uma criança",
+                        "Rodízio, estudo e aprendizagem"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 219",
+                      "work": [
+                        "Letramento Digital- O uso do Sway em sala de aula",
+                        "Práticas tecnológicas no dia a dia dos alunos",
+                        "Rotações por estações- O corpo Humano"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3º andar",
+          "room": [
+            {
+              "name": "Lab. Informática 308",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 071",
+                      "work": [
+                        "ENSINO PROFISSIONALIZANTE NA ESCOLA DO CAMPO: LIÇÕES DE UMA EXPERIÊNCIA NO ENSINO FUNDAMENTAL DA PAR",
+                        "Gestão Ambiental e Marketing:visita técnica unindo a teoria e a prática para a formação profissional",
+                        "Projeto de Estudo do Meio: Modernização e Progresso na Cidade de São Paulo",
+                        "SAÍDA DE CAMPO COMO PROJETO INTERDISCIPLINAR PARA ESTUDO DE CASO"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 154",
+                      "work": [
+                        "“Respeite a minha história” - Autobiografias de alunos do 7º ano",
+                        "Arte Rupestre: conhecendo um grupo ágrafo",
+                        "Multiletramentos e a construção de repertório cultural de alunos surdos",
+                        "O cinema: Stop Motion"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 279",
+                      "work": [
+                        "Inteligência Financeira para Jovens Aprendizes",
+                        "Jogando com Binômio de Newton e triângulo de Pascal",
+                        "Matemática Multiplayer"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lab. TE 307",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 077",
+                      "work": [
+                        "ENSINO POR PROJETOS: APRENDIZAGEM SIGNIFICATIVA PELO EMPREGO DA LINGUAGEM DO CINEMA",
+                        "Língua, História e Direitos Humanos no ensino de Espanhol como Língua Estrangeira",
+                        "Meet the Emotions"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 174",
+                      "work": [
+                        "A Base Nacional Comum Curricular e a construção do Currículo de Ciências no Município de São Vicente",
+                        "A interferência da Física e da Tecnologia educacional no espaço da escola.",
+                        "Trabalho de conclusão de curso do informática nível médio"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 226",
+                      "work": [
+                        "BRINCAR – UM OLHAR QUE FAZ DIFERENÇA",
+                        "Contribuições/Suporte/Relevância da Educação Física no processo de crianças em fase de alfabetização",
+                        "Educação pelo Lazer: Uma nova Visão de Competições Escolares através da Cultura Corporal de Moviment"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 302",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 024",
+                      "work": [
+                        "Abrindo as portas à participação das famílias na vida escolar",
+                        "Conviver Melhor",
+                        "Horário livre ou desenvolvimento pleno do educando?",
+                        "Momento cívico: Projeto Sou Mais Brasil"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 122",
+                      "work": [
+                        "Autonomia e Identidade",
+                        "Depende de Nós",
+                        "PROJETO BRINCAR NO ENSINO FUNDAMENTAL I: ESTRATÉGIA DE DESENVOLVIMENTO E REDUÇÃO DA AGRESSIVIDADE.",
+                        "Tudo que é bom acaba em pizza: desenvolvimento e aplicação da cultura maker na escola"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 220",
+                      "work": [
+                        "A importância da leitura para a produção de texto",
+                        "Como utilizar jogos teatrais na sala de aula",
+                        "Extra, Extra, Notícias",
+                        "O uso das tecnologias como ferramenta facilitadora do desenvolvimento da sequência didática."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 303",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 025",
+                      "work": [
+                        "“Como ajudar seu aluno a organizar melhor sua vida buscando maior produtividade escolar”",
+                        "Cadê o mangue que estava aqui? - buscando conhecimento através da interdisciplinaridade.",
+                        "Integração entre o Ensino de Ciências da Natureza e as novas tecnologias, através da investigação de",
+                        "Maurício de Souza No Mundo da Reciclagem"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 123",
+                      "work": [
+                        "Nossos Valores – A caminho de uma identidade",
+                        "\"Projeto \"\"Com Vivência\"\"\"",
+                        "Projetos de intervalo - Do frenesi a calmaria",
+                        "Viagem ao Sistema Solar"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 221",
+                      "work": [
+                        "“Turbulência na adolescência”",
+                        "Aprendizagem Criativa - Labirinto do ratinho",
+                        "Sala projeto: novas formas de aprender.",
+                        "Uma jogada de mestre – Aprender para empreender"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 304",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 058",
+                      "work": [
+                        "Carrinho de Rolimã: Cultura Maker e Espaço Público",
+                        "Cases de Minecraft Education na Sala de aula",
+                        "Oficina de bicicleta",
+                        "Uso de arduino em PBL"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 167",
+                      "work": [
+                        "As histórias em quadrinho como ferramenta de aprendizado em aula",
+                        "GESTÃO DE PESSOAS: A ESCOLA COMO LABORATÓRIO",
+                        "O Moodlebox como Ferramenta no Proc. de Ensino e Aprendizagem Ativa de Prog Web: Estudo Exploratório"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 222",
+                      "work": [
+                        "Construindo narrativas - uma experiência com o Teatro de Formas Animadas",
+                        "Minha história: a construção da identidade de alunos ribeirinhos",
+                        "Prática Bilíngue no ensino fundamental I: álbum de figurinha",
+                        "Sensibilidade no Olhar"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 305",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 089",
+                      "work": [
+                        "Ensino de biologia com temas sociocientíficos",
+                        "Projeto EJA Cidadã- Plantas Medicinais",
+                        "Proposta de uma sequência de ensino por investigação para o engajamento dos estudantes na argumentaç"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 187",
+                      "work": [
+                        "Melhores práticas em educação empreendedora",
+                        "O uso da metodologia ativa TBL no engajamento de estudantes do curso de Odontologia",
+                        "Um panorama da motivação dos alunos em escolas de Educação de Jovens e Adultos do município de Itanh",
+                        "Uso de Mídias como ferramenta na execução de um Projeto Integrador"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 223",
+                      "work": [
+                        "Aceita o Desafio?",
+                        "ESTRATÉGIAS PARA ELABORAÇÃO DE MATERIAL DIDÁTICO PARA O ENSINO DE HISTÓRIA",
+                        "Inovação na educação",
+                        "O trabalho em pequenos grupos"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4º andar",
+          "room": [
+            {
+              "name": "Sala Co-Laboração",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 042",
+                      "work": [
+                        "Desafios Matemáticos de Pilar",
+                        "LÓGICA SUSTENTÁVEL",
+                        "Matemática Solidária",
+                        "Vendinha das boas atitudes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 136",
+                      "work": [
+                        "A importância da intencionalidade na solicitação da Lição de Casa",
+                        "É a minha vez de falar- Assembleia de Classe",
+                        "REFORÇO ESCOLAR: uma parceria entre Universidade e Escola Pública"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 270",
+                      "work": [
+                        "A contribuição da cultura maker para a articulação entre teoria e prática para uma aprendizagem significativa – case do curso técnico de hospedagem do Colégio FECAP",
+                        "Aprendizagem Significativa com projetos em ETEC",
+                        "O Drone no Transporte Internacional de Cargas"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "5º andar",
+          "room": [
+            {
+              "name": "Estúdio Audiovisual",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 050",
+                      "work": [
+                        "Cérebro - 70 (às vezes você não consegue)",
+                        "Como viveríamos fora da Terra?",
+                        "Dinâmica das Populações",
+                        "O mundo ameaçado dos Recifes de corais"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 148",
+                      "work": [
+                        "A criação de jogos como estratégia de sistematização e divulgação dos resultados de pesquisa",
+                        "COMO PODEMOS PLANEJAR UMA VIAGEM INTERNACIONAL E RESOLVER OS IMPREVISTOS DURANTE ESTA VIAGEM?",
+                        "Projeto das Nações: fortalecendo o protagonismo dos alunos",
+                        "Sequências didáticas fundamentas na BNCC e em metodologias ativas"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 246",
+                      "work": [
+                        "Ciências e pesquisa de Campo das Bacterias",
+                        "Detetive Fungi",
+                        "Projeto SUSTENTABILIDADE em laboratório maker",
+                        "Projeto Voluntariando-C - Desenvolvimento de Aplicativo para prevenção às hepatites"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 501",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 064",
+                      "work": [
+                        "O uso da Aprendizagem Baseada em Problemas (PBL) em um Projeto de Multiletramentos",
+                        "Slam da Adolescência (Vozes por uma cultura de paz).",
+                        "Trabalho em grupo: conciliando construção de habilidades e aprendizagem conceitual"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 125",
+                      "work": [
+                        "BRINCADEIRAS PARA TODA A VIDA (TAMPINHAS DE GARRAFA PET)",
+                        "Criação de jogos: imaginação, prática e ciência",
+                        "Lateralidade e Aprendizagem",
+                        "Relaxamento"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 236",
+                      "work": [
+                        "Alfabetização e escrita- uma experiência de brincar com as palavras",
+                        "Diário de Projeto - Caminhos para uma Alfabetização de sentido",
+                        "Escola e Família: Aprendizagem além da sala de aula - OFICINA DE ALFABETIZAÇÃO PARA PAIS",
+                        "Tapete da leitura"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 502",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 040",
+                      "work": [
+                        "“Conexão”: a tecnologia em favor do respeito à diversidade social.",
+                        "A importância dos jogos nas aulas de matemática",
+                        "Alunos, protagonistas dessa história.",
+                        "Sistema Solar e Mitologia na Linguagem de Programação Scratch"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 179",
+                      "work": [
+                        "Alunos que mudam o mundo pela leitura",
+                        "Atualidades e Redação: habilidades e competências para a redação do Enem",
+                        "Correção redacional coletiva: percebendo os equívocos textuais.",
+                        "Metodologias ativas para promover a aprendizagem significativa da intertextualidade no EM"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 235",
+                      "work": [
+                        "A festa dos inesquecíveis 100 livros",
+                        "Borbo...lendo...vivendo...aprendendo...",
+                        "Gêneros do discurso: possibilidades de articulação entre os eixos da Língua Portuguesa",
+                        "PROJETO DE LEITURA E ESCRITA: Bichonário: Animais fantásticos, fantásticos animais"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 503",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 061",
+                      "work": [
+                        "A narrativa de enigma como instrumento motivador na formação leitores-autores.",
+                        "Histórias, nossas histórias...",
+                        "Metacognição no processo de escrita de Contos Fantásticos",
+                        "Os causos: uma viagem pelas variantes linguísticas do Brasil"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 156",
+                      "work": [
+                        "“Luz, câmera e nossos alunos em ação: os protagonistas são eles.”",
+                        "AUTOCONHECIMENTO NAS AULAS DE LÍNGUA PORTUGUESA",
+                        "NOSSOS NÓS - COMUNICAÇÃO NÃO VIOLENTA"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 229",
+                      "work": [
+                        "ATIVIDADES E FERRAMENTAS TECNOLÓGICAS QUE CONTRIBUEM NO PROCESSO DE APRENDIZAGEM",
+                        "No mundo dos jogos",
+                        "Que protagonismo é esse que esperamos dos estudantes?"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 504",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 038",
+                      "work": [
+                        "“Constrindo uma cidade Sustentavel”",
+                        "Agentes do Futuro - O Meio Ambiente e a Reciclagem",
+                        "Letrando com Tecnologia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 130",
+                      "work": [
+                        "A cultura indígena num passeio pelos gêneros textuais",
+                        "A Turma da Mônica no mundo Minecraft",
+                        "Poesia e Música",
+                        "Projeto: Brasil, faço parte dessa história"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 238",
+                      "work": [
+                        "Círculos e Estrelas",
+                        "Consciência Numérica no 2° ano",
+                        "Matemática - Jogo da Campainha",
+                        "Rotação por estações - Matemática: Trabalhando as 4 operações."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 505",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 047",
+                      "work": [
+                        "Frankenstein e os super seres humanos",
+                        "Gincana Interdisciplinar entre Ciências e História",
+                        "Linha do Tempo das Ciências.",
+                        "O Dia de Darwin: uma introdução ao darwinismo no ensino fundamental."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 152",
+                      "work": [
+                        "Color Zones - Metodologia de Ensino Híbrido e Gamificação",
+                        "O celular como recurso pedagógico: Documentário “Ações do Grêmio na escola/Comunidade”",
+                        "Taxonomia do Reino Plantae - Integração entre sala de aula e ambientes virtuais"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 239",
+                      "work": [
+                        "A COMUNICAÇÃO ENTRE ALUNOS EM AULAS COM RESOLUÇÃO DE PROBLEMAS E INVESTIGAÇÃO MATEMÁTICA NO 5º ANO",
+                        "A IMPORTÂNCIA DO CONHECIMENTO ESPECIALIZADO DO PROFESSOR FRENTE AOS RELATOS DAS CRIANÇAS",
+                        "Ábaco Divertido",
+                        "Caixa de Jogos Viajante"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 506",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 044",
+                      "work": [
+                        "“Garage Band: uma possibilidade em aulas de música na Educação Fundamental ll”",
+                        "Dinâmicas Musicais",
+                        "O ritmo da matemática",
+                        "Vulcanismo: Ciências, Inglês e Música no contexto multidisciplinar."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 172",
+                      "work": [
+                        "Canciones protesta em infografias",
+                        "Debate: trabajando argumentos",
+                        "Divulgação científica e bilinguismo: uma proposta de letramentos e ampliação cultural",
+                        "Do dicionário online ao WhatsApp: Os Apps no ensino- aprendizagem de língua estrangeira"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 267",
+                      "work": [
+                        "Exercícios físicos e qualidade de vida",
+                        "Gestão de suprimentos verde no ambiente escolar: agir certo por consciência e responsabilidade",
+                        "Horta na Escola: um espaço pedagógico para a Educação Ambiental",
+                        "Produção sustentável: problema ou solução?"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 507",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 045",
+                      "work": [
+                        "Bioparódias – A música como ferramenta de aprendizagem",
+                        "CANTIGAS NAS ALTURAS",
+                        "O relevo e sua arte contemporânea na geografia.",
+                        "O Renascimento Cultural e suas reinvenções"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 165",
+                      "work": [
+                        "A lei 10.639 - Experiências Afrô-Atlanticas",
+                        "Experiência/sentido. A importância do retiro no processo teatral.",
+                        "Teatro na Escola",
+                        "Utilização dos Desenhos Animados nas Ações Pedagógicas"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 276",
+                      "work": [
+                        "Júri Simulado de Literatura",
+                        "Leitura e Criação - Adaptação dos clássicos",
+                        "Livro de Contos"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 510",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 046",
+                      "work": [
+                        "Agenda 2030: construindo a sustentabilidade.",
+                        "Da escola para a Amazônia, da amazônia para o mundo",
+                        "MODELO DIDÁTICO SUSTENTÁVEL: CÉLULA COMESTÍVEL",
+                        "RESÍDUOS ORGÂNICOS E CONSUMO SUSTENTÁVEL"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 144",
+                      "work": [
+                        "A construção do conceito de Cidadania com a utilização da ferramenta de produção de vídeos IMovie.",
+                        "Coding: Programando o Futuro",
+                        "JEPP- Empreendedorismo em São Vicente",
+                        "ProjEthos: Educação Cidadã - A Cidade como recurso Pedagógico."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 242",
+                      "work": [
+                        "A importância dos textos no processo da Alfabetização",
+                        "Maple Care: plano de formação das equipes de ajuda",
+                        "Uma parceria de sucesso: Professora, Pediatra e Terapeuta"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 511",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 037",
+                      "work": [
+                        "O carteiro chegou e ... e encantou !!! Contribuições práticas e lúdicas para trabalhar diversos gên",
+                        "Práticas de incentivo à leitura e da escrita espontânea",
+                        "Selando Amizades"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 145",
+                      "work": [
+                        "A Dança, na justiça curricular",
+                        "AGOSTO INDÍGENA",
+                        "O Jogo e suas Possibilidades na Educação Física",
+                        "O MUNDO DAS COPAS"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 243",
+                      "work": [
+                        "“O Grito” e suas interfaces dialógicas no campo artístico-pedagógico",
+                        "Brasil Exportador da Arte",
+                        "Retrato Surrealista com Paint 3D"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 512",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 048",
+                      "work": [
+                        "CSA'S ANATOMY",
+                        "Identidade Vegetal: interagindo Ciência com Arte",
+                        "Produção de livro digital de Ciências - Ensino Fundamental II",
+                        "Projeto Biodiversidade"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 163",
+                      "work": [
+                        "A aula de biologia usada na identificação de problemas pessoais e as interferências na aprendizagem.",
+                        "A utilização de material reciclável para identificar e reconhecer os processo vitais",
+                        "O PROJETO DE PESQUISA NA EDUCAÇÃO PROFISSIONAL",
+                        "Zoológico virtual como uma proposta de disseminação de conceitos em zoologia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 244",
+                      "work": [
+                        "A Arte Rupestre na sala de aula - Produção e composição artística com tintas naturais.",
+                        "Coral das Diferenças",
+                        "Projeto Encantado",
+                        "Roda cantada: canta comigo!"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 513",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 049",
+                      "work": [
+                        "Estudo do meio - Bioma Manguezal",
+                        "Estudo do Meio - Parque Estadual Carlos Botelho",
+                        "Projeto polar na escola: a influência do homem na teia alimentar marinha"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 147",
+                      "work": [
+                        "Cartografia: o mundo na ponta do lápis",
+                        "Geografia Qualquer Hora",
+                        "Projeto eleições e democracia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 245",
+                      "work": [
+                        "Montanha Russa - Estudo de Física",
+                        "Projeto: Concurso de balsas de garrafas PET",
+                        "Relógios de Sol: Uma abordagem interdisciplinar",
+                        "Rotação por Estações para aprender a calcular o consumo de energia elétrica"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "6º andar",
+          "room": [
+            {
+              "name": "Sala 601",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 067",
+                      "work": [
+                        "APRENDIZAGEM DA MATEMÁTICA E O PENSAMENTO COMPUTACIONAL: UMA EXPERIÊNCIA NA EDUCAÇÃO BÁSICA",
+                        "Infográficos e Tecnologia",
+                        "Mudanças de estratégias, novos resultados."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 149",
+                      "work": [
+                        "A Matéria é a teoria da deriva, mas a aula de geografia acontece lá no quintal da escola",
+                        "Guerra e Diplomacia: As habilidades geopolíticas aplicadas ao estudo da geografia",
+                        "O movimento maker como estratégia para o estudo de temas socioambientais.",
+                        "Reflexões sobre as práticas de estudo do meio: o caso do desastre de MARIANA (MG)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 247",
+                      "work": [
+                        "Árvore da vida",
+                        "Cienciando nos anos iniciais",
+                        "Orientação de projetos de Iniciação Científica",
+                        "Plataformas didáticas do conhecimento"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 602",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 052",
+                      "work": [
+                        "Cascas e talos: Conhecer, transformar e nutrir.",
+                        "Consumo, propaganda e felicidade: vivências e reflexões interdisciplinares em Filosofia e Matemática",
+                        "Disciplina Eletiva: Moda e Sustentabilidade",
+                        "EDUCAÇÃO PARA O CONSUMO: A FORMAÇÃO DE CONSUMIDORES CIDADÃOS DENTRO DA ESCOLA"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 182",
+                      "work": [
+                        "Diversificar para potencializar - formação de grupos de trabalho no Ensino Médio",
+                        "GOOD BEHAVIOR GAME: AVALIAÇÃO E MODULAÇÃO DE COMPORTAMENTO COM ADOLESCENTES",
+                        "Volunter Work",
+                        "Volunturismo na Cidade de São Paulo: um novo rumo para a velha roupa"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 248",
+                      "work": [
+                        "Conviência em Processo de Grupo: o trabalho de valores e emoções no currículo escolar",
+                        "Projeto de vida",
+                        "Projeto Meditar na Escola"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 603",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 053",
+                      "work": [
+                        "Empoderamento juvenil - Grêmio Estudantil",
+                        "MUROS",
+                        "Time Capsule",
+                        "TUTORIA"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 151",
+                      "work": [
+                        "Black Book",
+                        "Memórias particulares: projetos de valorização do passado pessoal",
+                        "Mitos contemporâneos",
+                        "Projeto Singularidades: identidade na diversidade"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 249",
+                      "work": [
+                        "ESTUDO SOBRE A PRÁTICA DO BULLYING NA ESCOLA",
+                        "Lugar de Mulher é onde ela quiser!",
+                        "Malala, um conto de fadas?",
+                        "Universo da mulher"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 604",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 054",
+                      "work": [
+                        "Do cafezal ao cafezinho",
+                        "Geojogando - Economia",
+                        "Modelo dominante de desenvolvimento materializada pela arte: diálogos entre Geografia e Foto&Vídeo",
+                        "Uso de aplicativo de realidade aumentada nas aulas de Ciências e Geografia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 141",
+                      "work": [
+                        "Aplicação da Metodologia Rotação por estações com uso de tecnologias para dinamização da Química",
+                        "Mendeleev ensina a Tabela Periódica no Séc. XXI",
+                        "SDRUVS- O Jogo da Hereditariedade"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 250",
+                      "work": [
+                        "A experiência filosófica do olhar como ferramenta na compreensão da realidade.",
+                        "Como Sobrevivi ao 6o Ano: Experiências e Ferramentas em Aprendizagem por Projetos",
+                        "Cultivate a Better World - Lego and Storytelling",
+                        "\"ENSINAR A \"\"APRENDER A APRENDER\"\"\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 605",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 055",
+                      "work": [
+                        "As Grandes Navegações em perspectiva",
+                        "Do golpe à redemocratização: (re) construindo o conhecimento histórico através de relatos",
+                        "Jogos de Guerra",
+                        "Santos Permanências e Mudanças: produzindo um livro ilustrado"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 153",
+                      "work": [
+                        "Alemão – Wer fällt Ihnen spontan ein?",
+                        "FALANDO DE BIODIVERSIDADE NA LÍNGUA ESPANHOLA UTILIZANDO O TANGRAM COMO RECURSO NAS ILUSTRAÇÕES.",
+                        "Hospital Girassol",
+                        "Nuestro sitio de viaje y la experiencia de las últimas vacaciones de verano"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 251",
+                      "work": [
+                        "Mãos Solidárias- trabalho voluntário para alunos do EF2 e EM",
+                        "O mundo como ele é: a questão do brincar",
+                        "Os símbolos que nos (re)vestem",
+                        "\"Projeto Interdisciplinar Cênico \"\"Contextos\"\"\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 606",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 096",
+                      "work": [
+                        "O Google Classroom como possibilidade metodológica para além da sala de aula",
+                        "Projeto Cidade de Mariana / MG: cocriação de uma cidade virtual com Minecraft",
+                        "STORYTELLING TRHOUGH CRITICAL LEARNING"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 176",
+                      "work": [
+                        "Criação e Desenvolvimento de Portfólio para Fins Acadêmicos",
+                        "International Project: Pleistocene animals",
+                        "Sistema para medição de poluição atmosférica baseado em drone",
+                        "Sustentabilidade: agir ou assumir as consequências"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 252",
+                      "work": [
+                        "Hábitos Saudáveis - Mudando Pela Vida",
+                        "Le parkour na escola",
+                        "Projeto Jogos Olímpicos - Conhecendo os Jogos Olímpicos",
+                        "Suplementos alimentares na prática da atividade física. É necessário para os jovens?"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 607",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 085",
+                      "work": [
+                        "Artes Cênicas, Profissões e Tecnologia - Dublagem - Tradução & Adaptação",
+                        "Projeto Formar em Ação",
+                        "Projeto Pintura na Parede: arte e representação das identidades coletivas dentro das salas de aula."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 155",
+                      "work": [
+                        "Chegou a hora, vamos falar!",
+                        "Ferramentas digitais, colaboração e conectividade",
+                        "Iniciação científica no ensino fundamental II",
+                        "Sala de leitura interativa - As multifaces das habilidades em ambiente colaborativo de leitura"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 253",
+                      "work": [
+                        "A multidão em mim",
+                        "África - síntese dos desafios e contrastes",
+                        "\"O USO DA PROPOSTA POR \"\"ESPAÇOS\"\" NO ENSINO DA GEOGRAFIA: POPULAÇÃO BRASILEIRA\"",
+                        "Paisagens de Praia Grande: o uso e a diversidade ambiental da nossa cidade"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 608",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 026",
+                      "work": [
+                        "“Consolidando” o Processo de Alfabetização com aulas estimulantes, prazerosas e significativas.",
+                        "A Utilização da Psicomotricidade como Instrumento Facilitador do Desenvolvimento Cognitivo.",
+                        "O ambiente lúdico alfabetizador no atendimento educacional especializado (A.E.E.) da sala de recurso",
+                        "O trabalho com grupos diferenciados em contexto bilíngue."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 193",
+                      "work": [
+                        "Departamento Acadêmico nas escolas: inspire e mude a vida de professores e coordenadores",
+                        "Gestão da Campanha da Matrícula e Retenção",
+                        "Gestão da Inovação: implementando fluxograma de comunicação organizacional",
+                        "O EXERCÍCIO DO MAGISTÉRIO NO ÂMBITO DO ADMINISTRATIVO ESCOLAR"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 231",
+                      "work": [
+                        "Alfabetização em um contexto bilingue",
+                        "From the Book to the Screen: como transformar um projeto de leitura em um projeto audiovisual.",
+                        "Using metacognition to prepare primary Young Learners for exams"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 609",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 056",
+                      "work": [
+                        "(Re)pensando a Avaliação Mensal: autoria e criatividade",
+                        "Ensino Híbrido-rotação por estações",
+                        "Olimpíadas em sala de aula",
+                        "Uso de Games Atuais no Ensino do Conteúdo De Historia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 162",
+                      "work": [
+                        "BINGO GEOMÉTRICO",
+                        "Cubo Mágico",
+                        "Semelhança não é mera coincidência"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 256",
+                      "work": [
+                        "Geração E... Aprendendo a Empreender",
+                        "O uso de jogos para reflexão de Cidadania Digital",
+                        "Os processos de Inovação nos anos finais do Ensino Fundamental"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 610",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 060",
+                      "work": [
+                        "Como trabalhar a BNCC e a escuta das crianças e potencializar o processo de ensino-aprendizagem.",
+                        "Desenvolvendo hábitos de estudo",
+                        "O Lúdico nas aulas de Inglês: como usar flashcards de diferentes maneiras no ensino/aprendizagem",
+                        "Team Based Learn de forma contextualizada para alunos de ESL (English as Second Language)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 146",
+                      "work": [
+                        "A utilização de Ferramentas Digitais Para Compreender a Produção do Espaço Geográfico",
+                        "Capital, Vida e Meio Ambiente",
+                        "O acidente em Brumadinho-MG nas aulas de Geografia: produção de maquete e documentário no IMovie",
+                        "Obsolescência Programada: Museu de Geografia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 292",
+                      "work": [
+                        "Déficit de atenção – sintomas e soluções de aprendizagem",
+                        "Educar para Doar - formação de futuros doadores de sangue",
+                        "Identidade visual e planejamento de marketing para o projeto Apadrinhamento Afetivo em Leme/SP",
+                        "Youtube como Educação Não-formal, Seus Impactos Sobre Empatia e Formação de Valores Socioemocionais"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 611",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 041",
+                      "work": [
+                        "“Jornada da Matemática”",
+                        "Agrupamentos: vivência e sistematização",
+                        "LEVAR O “REAL” PARA A SALA DE AULA... É POSSÍVEL?",
+                        "Quebra - Cuca"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 111",
+                      "work": [
+                        "A relevância dos recursos pedagógicos na metodologia de ensino.",
+                        "Planejar para ler e contar: a importância dessa prática reflexiva",
+                        "SOMOS AMIGOS DO PEITO, INCENTIVO AO ALEITAMENTO MATERNO PARA OS BEBÊS QUE INGRESSAM NO BERÇÁRIO.",
+                        "Tornando o pensamento visível - documentar para criar aprendizagens significativas"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 197",
+                      "work": [
+                        "“A importância da pesquisa gráfica para o avanço do percurso criador”",
+                        "Africando",
+                        "o que a sombra faz?",
+                        "Pequenos artistas: Ampliando conhecimento artístico na prática."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 612",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 062",
+                      "work": [
+                        "Caderno veloz de poemas e desenhos - da teoria à prática",
+                        "CARACTERÍSTICAS PESSOAIS E RENDIMENTO ESCOLAR: COMPARAÇÃO ESTATÍSTICA PARA O AUTOCONHECIMENTO",
+                        "\"Quando leio, viajo pelo mundo"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 158",
+                      "work": [
+                        "A produção textual como um momento efetivo de interação social, do pré ao pós-texto",
+                        "Clube de RPG",
+                        "CLUBE DO LIVRO",
+                        "Metodologias ativas que enriquecem e promovem significado em projetos culturais"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 258",
+                      "work": [
+                        "JM Jornal - o jornal da nossa escola",
+                        "Nós Nas Mídias",
+                        "Revista eletrônica",
+                        "\"Roda de leitura \"\"O livro selvagem\"\"\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 613",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 063",
+                      "work": [
+                        "Entre o berço da poesia e a tecnologia: 6os e 7os anos como centro da performance poética",
+                        "O poema fora do papel",
+                        "Qual o espaço que a poesia ocupa na escola?"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 161",
+                      "work": [
+                        "A ciência da matemática: descobertas de Arquimedes & hipóteses de Euler",
+                        "Explorando o Universo Simétrico da Matemática e a aplicação em Mandalas",
+                        "GROWUP: Um Ambiente de Aprendizagem Colaborativo, Fértil e Sustentável",
+                        "LITRO: UM CUBO PARA MEDIR VOLUME"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 259",
+                      "work": [
+                        "“Repensando o clássico Odisseia: hipóteses de novas estratégias com o avanço do tempo e tecnologia”",
+                        "A literatura e a produção de texto no Ensino Fundamental II: relatos de propostas metodológicas",
+                        "Leia um livro solte a mente! Deixe outro, me alimente!",
+                        "Tabuleiro e aventura"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bloco C",
+      "floor": [
+        {
+          "name": "1º andar",
+          "room": [
+            {
+              "name": "Sala 131",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 001",
+                      "work": [
+                        "A natureza na sala de aula",
+                        "Arte: releitura, linguagem e brincadeiras em sintonia.",
+                        "Histórias encantadas - brincando e imaginando",
+                        "Projeto Fazendo Arte: despertando o artista que existe na criança."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 100",
+                      "work": [
+                        "4 elementos, 5 sentidos e as infinitas possibilidades",
+                        "Explorando Elementos da Natureza na Educação Infantil",
+                        "O BRINCAR INUSITADO",
+                        "VIVA AS DIFERENÇAS"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 204",
+                      "work": [
+                        "A importância da investigação no processo de aprendizagem",
+                        "Documentação Pedagógica e Narrativas de Aprendizagem",
+                        "Iniciação à programação infantil: um percurso lúdico",
+                        "Trabalhando com Projetos na Educação Infantil"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2º andar",
+          "room": [
+            {
+              "name": "Sala 231",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 014",
+                      "work": [
+                        "A Thanksgiving Adventure",
+                        "Natureza sob investigação",
+                        "O “Design Thinking” e suas possibilidades de aplicação em salas de aula de Educação Infantil.",
+                        "Surrealism: The imagination Key"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 101",
+                      "work": [
+                        "A crianças e o acompamento do ciclo de vida dos peixes - uma experiência com áquario em classe",
+                        "Explorando os alimentos - Realizando descobertas pelos sentidos e pelas experiências.",
+                        "Projeto Animais: Pé de macaco, rabo de baleia!",
+                        "Um trabalho com sementes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 287",
+                      "work": [
+                        "Aprendizagem entre pares e assembleia de sala de aula: promovendo a empatia nos diversos níveis de e",
+                        "Gestão e organização de sala de aula",
+                        "Para além do pedagógico: o papel do Articulador Relacional.",
+                        "Programa de Orientação de Estudos"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 232",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 002",
+                      "work": [
+                        "ARTE EM MOVIMENTO",
+                        "Entre as sombras e as luzes: um contraste que diverte e ensina.",
+                        "eu criança e as formas",
+                        "Proposições: Olhar curioso, sutileza e envolvimento das minúcias relevantes para as crianças."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 185",
+                      "work": [
+                        "Cine Santa Amália: um projeto interdisciplinar de problematização da realidade",
+                        "Jovens sem Fronteiras - Simulação da ONU",
+                        "Padim Ciço, o santo de muitos"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 205",
+                      "work": [
+                        "A Importância da exploração na Educação Infantil",
+                        "BRINCAR HEURÍSTICO: EXPLORAÇÃO E APRENDIZAGEM POR MEIO DOS GRANDES TESOUROS.",
+                        "Intersalas na creche é possível!",
+                        "O ESTÍMULO DO CONTROLE INIBITÓRIO EM ALUNOS DE TODDLER NOS MOMENTOS DE BRINCADEIRA LIVRE"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 233",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 094",
+                      "work": [
+                        "Daltonismo Pedagógico",
+                        "Faça Brilhar",
+                        "Práticas Pedagógicas e suas relações com a formação docente",
+                        "Uma escola integrada: da concepção à prática da sala de aula"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 112",
+                      "work": [
+                        "Aplicação de práticas Mindfulness para o fortalecimento de competências sócio-emocionais",
+                        "Ensino Bilíngue: grandes desafios, múltiplas aprendizagens.",
+                        "O brincar na Educação Infantil - Transformações do olhar do professor",
+                        "Planejamento contínuo - Como promover a escolha e a empatia durante as atividades."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 294",
+                      "work": [
+                        "“Gestão de Qualidade por um melhor Ensino Aprendizagem”",
+                        "Aprendendo através do auxílio de práticas tecnológicas básicas",
+                        "Avaliar o quê, como e por quê?",
+                        "O olhar de uma pesquisadora em escolas inovadoras: indagações e contribuições"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 234",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 013",
+                      "work": [
+                        "A documentação pedagógica como instrumento para reflexão e planejamento da prática docente",
+                        "As contribuições da afetividade para o trabalho educacional na primeira infância",
+                        "Gestão Democrática tendo o aluno como prioridade",
+                        "\"Um convite ao brincar ou \"\"apenas\"\" brincando?\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 104",
+                      "work": [
+                        "“Projeto: Mundo da Imaginação”",
+                        "As palavras sempre existiram? Uma viagem para o tempo dos homens das cavernas .",
+                        "É possível ler e escrever na Educação Infantil?",
+                        "Práticas de leitura na creche, incentivando os futuros leitores."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 198",
+                      "work": [
+                        "Hoje é dia de Pirata",
+                        "O que tem no Meu Quintal - O QUE EU VEJO... EU FOTOGRAFO.",
+                        "Os 5 sentidos: “Brincando e Explorando”",
+                        "Projeto Bonecos do Mundo"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3º andar",
+          "room": [
+            {
+              "name": "Sala 331",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 034",
+                      "work": [
+                        "A Importância da Leitura Compartilhada no Ensino Fundamental I",
+                        "Eu recomendo",
+                        "Jogos e Língua Portuguesa - Uma combinação perfeita!",
+                        "Jornal Experimentação"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 124",
+                      "work": [
+                        "Atendimento Educacional Especializado Domiciliar : Ampliando as possibilidades de aprendizagem.",
+                        "Educação Estatística na Educação Infantil: Inclusão por meio de um ambiente de modelagem",
+                        "Estratégias para o desenvolvimento da leitura/escrita em Braille.",
+                        "MÉTODOS DE ALFABETIZAÇÃO DE CRIANÇAS AUTISTAS"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 224",
+                      "work": [
+                        "Intervenção pedagógica em casos de Transtorno de Déficit de Atenção e Hiperatividade (TDAH)",
+                        "Pequenos Construtores",
+                        "Prevenção e remediação das dificuldades de aprendizagem nos anos iniciais escolares",
+                        "Projeto Caixa de Jogos Viajantes: da prática à formação de professores que ensinam Matemática"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 332",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 010",
+                      "work": [
+                        "“Nosso Livro” - A importância de fazer parte de um grupo social",
+                        "A DESCOBERTA DO BRINCAR NO ATO DE ACOLHER",
+                        "A escola que sempre sonhei - BNCC e práticas na Educação Infantil",
+                        "Adaptação: uma boa acolhida para um melhor adaptar-se"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 108",
+                      "work": [
+                        "A DOCUMENTAÇÃO PEDAGÓGICA COMO REVELADORA DO PROTAGONISMO INFANTIL",
+                        "A Importância da Musicoterapia no CEI Sinhazinha Meireles",
+                        "ESCOLA PARA TODOS:UM SHOW DE DIVERSIDADE"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 200",
+                      "work": [
+                        "BRINCAR, PINTAR, DESENHAR E RECICLAR",
+                        "O que tem no meu Quintal - UM MERGULHO NO UNIVERSO DOS AROMAS",
+                        "Somos todos Africa"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 333",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 016",
+                      "work": [
+                        "A ampliação da oralidade a partir de uma experiência leitora",
+                        "Documentação Pedagógica: Portfólio Coletivo",
+                        "Projeto Lourenço EnCanto – uma experiência com sessões simultâneas de contação de histórias",
+                        "Sarau de poemas Lalau e Laurabeatriz"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 114",
+                      "work": [
+                        "“Direitos do coração” - Caixa de memórias",
+                        "A importância de manter a essência das histórias dos contos de fadas na Educação Infantil",
+                        "Criando histórias com o recurso da Realidade Aumentada"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 240",
+                      "work": [
+                        "A problematização de situações do cotidiano no ensino de matemática",
+                        "Desafios Matemáticos com Minecraft",
+                        "Matemática e ARTE: uma aproximação de significados sobre a obra de Mondrian",
+                        "Realidade Aumentada para o ensino de Grandezas e Medidas no Ensino Fundamental I"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 334",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 006",
+                      "work": [
+                        "A consciência fonêmica (método fônico) na alfabetização de alunos do 1º ano do Ensino Fundamental",
+                        "Alfabetização motora",
+                        "Brincar de Ouvir: Estimulando a Consciência Fonológica desde a Educação Infantil.",
+                        "O LÚDICO E A APRNDIZAGEM"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 103",
+                      "work": [
+                        "“EU, O OUTRO E O NÓS”",
+                        "BRINCANDO COM MEU CORPO DESCOBRI E CONQUISTEI O MUNDO!",
+                        "Hoje é sexta-feira! Vamos brincar dançar, cantar, criar e ouvir histórias.",
+                        "NARRATIVAS DO CORPO: Brincando com histórias e movimentos"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 199",
+                      "work": [
+                        "“Quem canta seus males espanta”",
+                        "“Uma viagem musical”",
+                        "Corpo poético: o processo de contar histórias através do corpo aos 3 anos de idade",
+                        "MUSICALIZAÇÃO INFANTIL"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4º andar",
+          "room": [
+            {
+              "name": "Sala 431",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 079",
+                      "work": [
+                        "A IMPORTANCIA DO LABORATÓRIO DE ENSINO DA MATEMÁTICA PARA A APRENDIZAGEM COM JOGOS MATEMÁTICOS NO UN",
+                        "Ensino por projetos e desafios como complementação ou alternativa às aulas de laboratório",
+                        "Metodologias Ativas: Mapas Conceituais, Infográficos e Linhas de Tempo.",
+                        "Ponte Hidráulica - Princípio de Pascal"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 110",
+                      "work": [
+                        "A Arte com a Música é o encanto de Brincar: arte na prática.",
+                        "Corpo, gestos e movimento: bebês e crianças descobrindo o mundo sonoro.",
+                        "Em Roda no Fundamental I.",
+                        "\"Projeto \"\"somos todos semeadores\"\"\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 208",
+                      "work": [
+                        "CONTRIBUIÇÕES DA EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL: TOCA DA RAPOSA",
+                        "Dança na escola: Muito além dos primeiros passos",
+                        "Educação Psicomotora e Neurociência",
+                        "Os circuitos de movimento estão a serviço de quê?"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 432",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 033",
+                      "work": [
+                        "Be a Superhero! Love one another and change the world!",
+                        "Como registrar o avanço da fluência na Língua Inglesa? YouTube Project",
+                        "Jogos, dramatizações, histórias e reflexões: um olhar para a educação socioemocional",
+                        "LOVE ONE ANOTHER AND LET YOUR LIGHT SHINE!"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 129",
+                      "work": [
+                        "“Contação de Histórias – Integração entre crianças da Educação Infantil e as series iniciais do Ensi",
+                        "Aprendizagem e Desenvolvimento entrelaçando História, Música e Arte",
+                        "DITADO E LEITURA POR ÁUDIO (WATSAPP)",
+                        "Nosso diário, nossa história: da escrita à narrativa."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 234",
+                      "work": [
+                        "“Para gostar de ler”",
+                        "“Uma viagem na imaginação: sonhar o sonho louco de Dom Quixote”",
+                        "Era uma vez... o clássico agora tem versões!"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 433",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 015",
+                      "work": [
+                        "A capoeira como ferramenta de alfabetização na Ed. Infantil: movimento, musicalidade e ludicidade",
+                        "ESCUTA, PROTAGONISMO E RESPEITO À INFÂNCIA - O NASCIMENTO E DESENVOLVIMENTO DE UM PROJETO",
+                        "Letramento na Educação Infantil: Aquisição da leitura e escrita no espaço escolar",
+                        "Uma ponte entre o ouvir e o contar"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 099",
+                      "work": [
+                        "“Projeto Volta ao Mundo: uma viagem pelo universo da Música e da Literatura”",
+                        "O que é transparência ?",
+                        "O que tem no meu Quintal - Brincando com elementos naturais",
+                        "RABISCANDO NO PAPEL, PINTANDO ATÉ O CEU"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 285",
+                      "work": [
+                        "“Apoio à pessoa Surda e difusão da Libras em âmbito escolar”",
+                        "Alunos público-alvo da Educação Especial viram personagens de Histórias em Quadrinhos",
+                        "As cores por meio da atividade física e lúdica para pessoas com paralisia cerebral",
+                        "O que você enxerga quando não vê? Uma proposta de contação de história sensorial"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "5º andar",
+          "room": [
+            {
+              "name": "Sala 531",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 043",
+                      "work": [
+                        "Ensino Híbrido - Uso de tecnologias em sala de aula",
+                        "Gestão pedagógica integrando segmentos: como fazer a transição do 5º para o 6º ano?",
+                        "O ambiente da sala de aula como terceiro educador nos anos iniciais do Ensino Fundamental"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 128",
+                      "work": [
+                        "Aprendendo com Projeto",
+                        "Sequência didática: Contos de Sylvia Orthof",
+                        "Somos todos extraordinários - por um olhar na alfabetização",
+                        "SUSSURROFONE - Auxiliando na alfabetização e letramento"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 289",
+                      "work": [
+                        "“PROFISSÃO PROFESSOR – VOCÊ ESTÁ PREPARADO PARA A EDUCAÇÃO 4.0?”",
+                        "A formação continuada do formador de adultos professores numa perspectiva personalizada",
+                        "Animação com massinha – a produção textual em contextos significativos.",
+                        "Como garantir a identidade da sua escola através da articulação pedagógica?"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 532",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 003",
+                      "work": [
+                        "Alimentação Saudável: uma linha tênue entre memoria afetiva e consciência nutricional.",
+                        "De onde vêm os frutos?",
+                        "Projetos, interesses, habilidades e competências na Educação Infantil: O projeto do cocô",
+                        "Virada da Primeira Infância - Nutrição para além da mesa"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 127",
+                      "work": [
+                        "Ciranda da Leitura é Show",
+                        "Farofa Literária",
+                        "Leitura: Uma Mala Repleta de Conhecimento",
+                        "navegando com a arca de noé de vinícius de moraes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 273",
+                      "work": [
+                        "A AUTORIDADE DOCENTE E OS NOVOS DESAFIOS METODOLÓGICOS NO ENSINO MÉDIO",
+                        "A gestão da formação de professores com foco na inovação",
+                        "Atitude Empreendedora – Compartilhando uma experiência reveladora do protagonismo juvenil.",
+                        "Utilização da Plataforma Socrative para melhoria da aprendizagem em matemática"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 533",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 091",
+                      "work": [
+                        "Da aprendizagem criativa à educação maker e STEM na Lourenço Castanho: FI, FII e EM?",
+                        "Formação de Professores em Aprendizagem Criativa e Movimento Maker: Desafios e Possibilidades",
+                        "Formações do L@b Criativo - Um espaço em movimento",
+                        "O blog como ferramenta inspiradora e guardiã de ensino-aprendizagens para educandos e educadores"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 126",
+                      "work": [
+                        "Conjunções no ensino fundamental I: Como o uso de conectivos pode aperfeiçoar escrita e oralidade",
+                        "Literatura de Cordel",
+                        "O mundo de Ruth Rocha",
+                        "O teatro como facilitador da aprendizagem e da inclusão na escola."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 207",
+                      "work": [
+                        "ENVOLVENDO A FAMÍLIA NA APRENIZAGEM DA CRIANÇA",
+                        "O Olhar para o cuidar e o educar com foco na saúde e bem estar: Uma experiência compartilhada",
+                        "Produção Literária Infantil e Identidade"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 534",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 009",
+                      "work": [
+                        "A aplicabilidade da psicomotricidade na Educação infantil e sua contribuição na formação escolar.",
+                        "Introdução Lúdica de Conceitos Matemáticos",
+                        "Mundo dos Dinossauros",
+                        "Percebendo e sentindo o mundo: as formas geométricas e as cores no dia-a-dia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 135",
+                      "work": [
+                        "Brincando com os Números",
+                        "O ensino da matemática através do teatro.",
+                        "SEQUÊNCIA DIDÁTICA: PROBLEMAS DO CAMPO ADITIVO",
+                        "Sistema de numeração: as tabulações como instrumento de trabalho do professor"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 206",
+                      "work": [
+                        "Carinhoso",
+                        "Cultivando Valores - Um olhar para as competências socioemocionais",
+                        "Cultura Nordestina",
+                        "Projeto Momentos em Família"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "6º andar",
+          "room": [
+            {
+              "name": "Sala 631",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 012",
+                      "work": [
+                        "adaptação e o vínculo",
+                        "As relações de gênero e a educação de primeira infância brasileira",
+                        "E você, gosta do quê?",
+                        "Tudo sobre mim..."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 109",
+                      "work": [
+                        "A diversidade brasileira",
+                        "Brinquedos e Brincadeiras",
+                        "Fantásticas Mentes",
+                        "Meninas negras"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 241",
+                      "work": [
+                        "GRUPOS DE GERÊNCIA – do protagonismo do aluno à consciência da responsabilidade",
+                        "Metodologias Ativas: Transformando o planejamento de aula em Projetos Gamificados",
+                        "O projeto formativo do coordenador pedagógico",
+                        "Tecnologias Digitais para uma aprendizagem significativa"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 632",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 004",
+                      "work": [
+                        "Cantos diversificados: uma prática educativa...Um percurso de aprendizagem.",
+                        "Exploradores da cidade",
+                        "O Alimento como abordagem pedagógica e cultura de paz",
+                        "Pequeno cidadão: Desenvolvendo o sentimento de pertença através da revitalização do espaço público."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 190",
+                      "work": [
+                        "Aprendizagem Criativa",
+                        "Formação de professores e tecnologias digitais: um relato de experiência",
+                        "PARA QUE SERVE O ESTAGIÁRIO? A IMPORTÂNCIA DA FORMAÇÃO NO PROCESSO DE DESENVOLVIMENTO PROFISSIONAL",
+                        "Pauta Formativa uma ferramenta para a formação dos docentes e gestores"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 233",
+                      "work": [
+                        "A importância da leitura na formação da criança",
+                        "Atividades e jogos pedagógicos no processo de alfabetização.",
+                        "Lendo, Relendo, Contando e Aprendendo"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 633",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 022",
+                      "work": [
+                        "Álbum de leitura",
+                        "Os Desafios da Intervenção: Propostas e Avanços em cada Fase da Alfabetização",
+                        "Uma sala de aula para todos:diversificando estratégias baseando-se nos diferentes aspectos da inteli"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 113",
+                      "work": [
+                        "Hora do Conto na Biblioteca: a literatura como atividade permanente na Educação Infantil",
+                        "O PAPEL DA MEDIAÇÃO NA EDUCAÇÃO INFANTIL PARA A FORMAÇÃO DO LEITOR LITERÁRIO",
+                        "\"PPP vivo e atuante: \"\"Projeto magia da leitura\"\"\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 230",
+                      "work": [
+                        "English as a game",
+                        "Habilidades socioemocionais e o dia a dia escolar",
+                        "Knuffle Bunny Project",
+                        "Word Work no ensino bilíngue"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 634",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 008",
+                      "work": [
+                        "“Materiais não estruturados : Diversas maneiras de brincar”",
+                        "“Tudo bem com os bebês !” segurança,saúde e bem-estar de bebês no CEI.",
+                        "UM MUNDO DE TEXTURAS E SENSAÇÕES"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 107",
+                      "work": [
+                        "“Choice Time”: o papel do facilitador e a construção do aprendizado da criança.",
+                        "Conhecendo e estabelecendo laços com a natureza na Educação Infantil",
+                        "Os cantos no processo de adaptação: um olhar para a formação da identidade do grupo",
+                        "Territórios de Aprendizagem - uma prática possível"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 203",
+                      "work": [
+                        "Desmistificando projeto na primeirissíma infância- A Colcha de Retalhos",
+                        "Meu corpo: Um caminho para aprendizagem",
+                        "Vem mexer aqui! O espaço e as materialidades como promotores de experiências na primeira infância",
+                        "Vivências que transformam"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bloco E",
+      "floor": [
+        {
+          "name": "2º andar",
+          "room": [
+            {
+              "name": "Sala 250",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 084",
+                      "work": [
+                        "Feira de Profissões",
+                        "O que Farei? Quem Serei?",
+                        "Projeto de vida, angústias e desafios",
+                        "QUÍMICA NA ENGENHARIA"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 150",
+                      "work": [
+                        "Brincando através dos tempos: diversões infantis antigas e medievais, na atualidade",
+                        "MPB: um olhar sobre a cultura brasileira",
+                        "Multiculturalismo brasileiro",
+                        "Redescobrindo a Feira com História e Ciências"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 280",
+                      "work": [
+                        "(Re)construções Identitárias: análise de posicionamentos de gênero e sexualidade em sala de aula",
+                        "Grupo de Apoio ao Estudante: Formação Científica, Pesquisa e Responsabilidade Social",
+                        "LIBRAS",
+                        "mundo da libras"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 251",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 057",
+                      "work": [
+                        "Admiradores de Adolf Hitler: a permanência da ideologia nazista",
+                        "Diários de Guerra",
+                        "Escape Room - Fugindo para aprender",
+                        "O Holocausto Expresso em Cartas"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 183",
+                      "work": [
+                        "AcampaTec – Integração, liderança e trabalho em equipe de forma divertida",
+                        "\"Eletiva: \"\"Orgulho de ser professor\"\"\"",
+                        "Frequência, Rendimento e Evasão. Como alavancar os resultados da escola?",
+                        "Parceiros da Leitura no Santa"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 281",
+                      "work": [
+                        "Aplicação da Metodologia ativa de PBL (Problem Based Learning) e de tecnologias nas aulas de Química",
+                        "\"Projeto \"\"Fábrica de Perfumes\"\" - uma proposta interdisciplinar à serviço da aprendizagem em Química\"",
+                        "Teste da Chama",
+                        "Um sonho mol legal"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 254",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 086",
+                      "work": [
+                        "A QUÍMICA TRANSFORMANDO RESÍDUO EM ALIMENTO!",
+                        "Metodologias ativas, será?",
+                        "O primeirão vai te explicar",
+                        "Produção de hidrogênio"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 191",
+                      "work": [
+                        "Decodificação da linguagem não verbal dos alunos - Leitura fria das emoções",
+                        "LITERATURA ANIMADA",
+                        "Movimento Futuro: Qual o seu sonho para transformar o mundo?",
+                        "Projeto: Leitura e Escrita no Ateneu"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 275",
+                      "work": [
+                        "A Ditadura Militar em 33 Discos",
+                        "O WhatsApp como Ferramenta no Processo de Ensino e Aprendizagem de História: Um Estudo Exploratório",
+                        "Somos todos latino-americanos",
+                        "Um período da história nos versos e na memória do povo"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3º andar",
+          "room": [
+            {
+              "name": "Sala 350",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 028",
+                      "work": [
+                        "Arte no Varal",
+                        "EU FALO, EU ME CURO",
+                        "\"Projeto \"\" A empatia transforma o mundo\"\"\"",
+                        "Valorização à diversidade cultural pelo olhar de alunos de 1º e 5º anos (trabalho inter idades)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 143",
+                      "work": [
+                        "Desenvolvimento de competências socioemocionais através de debates e simulações",
+                        "Experimentação em Arte. Bullying na Escola: Um problema crônico",
+                        "Prevenção do Suicídio nas Escolas",
+                        "Processos Circulares na Mediação de Conflitos"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 283",
+                      "work": [
+                        "A persuasão em A arte de ser ex: um enfoque da gramática sistêmico-funcional",
+                        "Leitura do mundo e leitura da palavra: efetivos meios de inclusão social",
+                        "Pedaços de histórias: do EJA para as crianças",
+                        "Recortes da Vida"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 351",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 081",
+                      "work": [
+                        "“A literatura me faz...” - Gincana Literária",
+                        "Eletiva de jornalismo",
+                        "Incluindo o uso da Língua Portuguesa Formal no cotidiano dos alunos do Ensino Médio",
+                        "Jogos Gramaticais"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 177",
+                      "work": [
+                        "Abordagem intercultural no ensino de inglês",
+                        "Discutindo questões raciais nos filmes nas aulas de língua inglesa",
+                        "Gifs and Present Perfect Tense",
+                        "Práticas de Linguagem: Língua Inglesa em situações de comunicação - SITCOM"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 284",
+                      "work": [
+                        "A Elaboração de Projetos Didáticos na EJA a Partir das Escutas de Falas Significativas dos Educandos",
+                        "Chá da diversidade, um espaço para o dialogo",
+                        "O debate nacional sobre o encarceramento precoce da juventude no Brasil"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 354",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 027",
+                      "work": [
+                        "A importância da cultura negra em sala de aula - Aprendendo a respeitar as diferenças",
+                        "Conhecendo a África com a Literatura, Arte, música e representatividade.",
+                        "Projeto Com Vivência e a inteligência emocional",
+                        "Valorização da cultura Afro-Brasileira"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 137",
+                      "work": [
+                        "“A linha que virou corpo, que virou vida que se expressa pela Arte”",
+                        "Café com Shakespeare",
+                        "Grupo de Teatro Erra Bonito",
+                        "Muito prazer, sou um adolescente! O teatro como recurso metodológico: subjetividades X relações"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 271",
+                      "work": [
+                        "Modern art: aprendendo história da arte com jogo de tabuleiro",
+                        "Personalização em aulas de idiomas, ações rápidas e fáceis",
+                        "Produção de vídeos: uma experiência na aula de matemática",
+                        "Técnicas de otimização de processos de desenvolvimento de jogos digitais no ensino técnico"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4º andar",
+          "room": [
+            {
+              "name": "Centro de Empreendedorismo",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 090",
+                      "work": [
+                        "A tecnologia assistiva no atendimento educacional especializado",
+                        "Atividades de Vida Autônoma, Social e Laboral no Atendimento Educacional Especializado",
+                        "Diferenças entre inclusão e diversidade um novo sentido para o diverso"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 188",
+                      "work": [
+                        "Conto e Reconto: Uma escrita de minha autoria. Conhecendo os contos e me tornando um contador",
+                        "Qual é o ponto de partida da alfabetização cartográfica no EJA?",
+                        "REFLEXÕES SOBRE AS PRÁTICAS DE TRABALHO NA EDUCAÇÃO DE JOVENS E ADULTOS",
+                        "Slam Calunga"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 286",
+                      "work": [
+                        "COLMEIA: polinizando ARTE e CULTURA na escola",
+                        "Estratégias para o engajamento cognitivo dos alunos",
+                        "Planejamento Reverso",
+                        "Representatividade Importa - Identidade/Indivíduo"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "5º andar",
+          "room": [
+            {
+              "name": "Sala 550B",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 088",
+                      "work": [
+                        "“Uma nova visão da Prática Pedagógica no sistema prisional: Educação e Ressocialização”",
+                        "Educação de Jovens e Adultos com Deficiência: Discutindo o racismo",
+                        "Importância da Previdência Privada",
+                        "SOCIOLOGIA - TOTAVERBUM"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 184",
+                      "work": [
+                        "Emprego de clips como modelo de reações químicas.",
+                        "Poesia, Arte e Química no Ano Internacional da Tabela Periódica dos Elementos Químicos",
+                        "PREPARAÇÃO DO BIODIESEL PARTINDO DE GORDURA VEGETAL DE FRITURAS DA CANTINA DO COLÉGIO FECAP",
+                        "Reagente de Benedict de baixo custo"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 272",
+                      "work": [
+                        "Arte e Movimento",
+                        "Como se conta um conto...",
+                        "Mapa de areia",
+                        "Rotação por estações e o estudo das Revoluções Industriais no Ensino Médio"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 551A",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 051",
+                      "work": [
+                        "CAPOEIRA - Back to black",
+                        "Personalização de ensino: o design de moda e a música contemporânea",
+                        "\"Sarau Cultural e Artístico \"\"Não importa de onde viemos, somos todos iguais\"\"\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 192",
+                      "work": [
+                        "MOC - Mostra Científica da Escola Técnica Estadual - Etec de Suzano.",
+                        "Mostra Cultural- Trabalho interdisciplinar Coletivo",
+                        "Projeto Expo Liga",
+                        "Seria São Paulo um museu de grandes novidades?"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 290",
+                      "work": [
+                        "Estratégias Metacognitivas na produção textual: análise de seu impacto na escrita de resenhas",
+                        "Fazeres cotidianos na biblioteca escolar",
+                        "Lendas Urbanas",
+                        "O LIVRO PARA A INFÂNCIA EM UM CONTEXTO DITO NÃO MAIS PARA A INFÂNCIA: UMA PRÁTICA PEDAGÓGICA DE LEIT"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 551B",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 095",
+                      "work": [
+                        "Educação Ambiental: o que vem sendo feito pelos professores de Ciências, Português e Matemática?",
+                        "Prática docente e Políticas Educacionais no Ensino Superior e os quatro pilares da Educação",
+                        "Projeto Rondon: formação de professores da Educação Básica, uma lição de vida e de cidadania",
+                        "Rodízio de auxiliares: quais os ganhos para os estudantes e familiares?"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 139",
+                      "work": [
+                        "FEIRA DE CIENCIAS: GRANDES DESCOBERTAS E INVENCOES",
+                        "Implantação da Iniciação Científica Júnior no Colégio Santo Américo",
+                        "modelos atômicos",
+                        "O uso de cenários temático-sensoriais e storytelling como estratégia didática"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 291",
+                      "work": [
+                        "Cultura da Paz - Capacitação para a Transformação Social",
+                        "Eletiva Primeiros Socorros",
+                        "EXPRESSÕES CRIATIVAS PARA SUSTENTABILIDADE - RESGATE CRIATIVO",
+                        "OLIJUP - Socialização entre alunos com a comunidade"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 552",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 097",
+                      "work": [
+                        "Afetividade e Conflito na relação Mãe e Filho e desempenho na escrita no Ensino Fundamental",
+                        "EduCAR para ambientar",
+                        "Pedagogia Comunitária, o elo entre Família e Escola.",
+                        "Reunião de pais - como falar com as famílias dos nossos alunos?"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 170",
+                      "work": [
+                        "Itinerários Formativos: Projetos investigativos em Ciências Humanas e mídias digitais",
+                        "O RAP como voz política na escola",
+                        "Projeto Técnico Interdisciplinar - Curso de Multimidia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 261",
+                      "work": [
+                        "“Eu imagino, invento e conto - a contação de histórias a partir do improviso e criatividade.”",
+                        "Explorando paisagens pelo olhar da literatura brasileira",
+                        "Mitologia grega inspirando o desenvolvimento de produção textual",
+                        "\"Muitas vezes Lucas: experiências de aula com o livro \"\"Seis vezes Lucas\"\" de Lygia Bojunga\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala 554",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 092",
+                      "work": [
+                        "A norma culta da Língua Portuguesa: como ferramentar os educadores para sua aplicação na escola.",
+                        "Estudo do meio como facilitador da aprendizagem",
+                        "Revista digital: uma aprendizagem significativa interáreas",
+                        "Um projeto para todos"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 138",
+                      "work": [
+                        "Energia consumida é energia perdida? Tecnologia: vilã ou aliada a saúde?",
+                        "Lançamento de Foguetes da Olímpiada Brasileira de Astronomia e Astronáutica",
+                        "O universo na palma da mão",
+                        "Rios Ocultos"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 288",
+                      "work": [
+                        "De Professora a Facilitadora de Projetos - Relato de uma Eterna Aprendente",
+                        "Resignificando a atuação do estagiário no ambiente escolar",
+                        "Sobre a importância (e a necessidade) de olhar o sujeito: forma e conteúdo da/na sala de aula",
+                        "Todos pela Matemática"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "6º andar",
+          "room": [
+            {
+              "name": "Sala Biblioteca 2",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 078",
+                      "work": [
+                        "Humanidades e Arte",
+                        "Philosophysics",
+                        "Política e a Arte de Viver Bem na Pólis – Um Relato de Viagem a Brasília",
+                        "Pós- verdade - A filosofia como antídoto contra as fake news."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 195",
+                      "work": [
+                        "As danças de roda na educação formal.",
+                        "E EU COM ISSO?",
+                        "Gincana fora da caixa - Estratégia gamificada de engajamento e motivação",
+                        "PEI - Plano Educacional de Intervenções"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 293",
+                      "work": [
+                        "“O uso da bússola física e digital nas aulas de Geografia e Educação Fisica”",
+                        "Construção do Currículo de Educação Física de Praia Grande-SP diante da BNCC",
+                        "Educação Física Inclusiva",
+                        "Práticas possíveis em uma parceria do Ensino Regular com a Educação Especial."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sala Biblioteca 3",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 035",
+                      "work": [
+                        "Autoria e alegria no mundo da poesia: Poemas Panapanísticos - Uma homenagem ao Paulo Mauá",
+                        "INICIAÇÃO CIENTÍFICA: COMO É FEITO O CHOCOLATE?",
+                        "Projeto Parlendas para Séries Iniciais",
+                        "Reescrita e Produção João e os 10 pés de Feijão"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 196",
+                      "work": [
+                        "Adote uma Praia",
+                        "Lixo no lixo escola no capricho.",
+                        "Metodologia Lumiar e o Escolanovismo",
+                        "RESÍDUOS SÓLIDOS COMO TEMA GERADOR PARA A EDUCAÇÃO AMBIENTAL"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 263",
+                      "work": [
+                        "O salário mínimo em foco: análise crítico por meio da educação estatística",
+                        "Pequenos Jovens Grandes Empreendedores",
+                        "Projeto Jovem Empreendedor",
+                        "Realizando Sonhos: Educação Financeira por meio de recursos digitais"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "7º andar",
+          "room": [
+            {
+              "name": "Sala Estudo em Grupo",
+              "timetable": [
+                {
+                  "name": "1º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 059",
+                      "work": [
+                        "Cientistas em Ação",
+                        "POL",
+                        "Premiação César Lattes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 157",
+                      "work": [
+                        "Caça ao Tesouro -",
+                        "Ensino Híbrido e Tecnologias Educacionais: por uma aprendizagem ativa e crítico-reflexiva",
+                        "Revisando morfossintaxe por estações",
+                        "Uso de Debates em aulas de Filosofia para o 9º ano"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3º Horário",
+                  "section": [
+                    {
+                      "name": "SESSÃO 255",
+                      "work": [
+                        "A vida dos faraós no Egito Antigo",
+                        "Álbum de figurinhas: Reconstruindo a vida na Pré-História através de análise iconográfica",
+                        "Mosaico da Brasilidade",
+                        "Oficina de Arqueologia"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": []
 }
