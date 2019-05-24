@@ -99,8 +99,3 @@ main > header s {
 #workList li h4 {
   margin-bottom: 0;
 }
-
-#workList li i {
-  font-size: 2rem;
-  line-height: 40px !important;
-}
