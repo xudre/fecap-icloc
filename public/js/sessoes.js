@@ -51,12 +51,12 @@ let applyFilter = () => {
 
     list = [];
 
+    let regex = new RegExp(filter, 'i');
+
     listFull.forEach(work => {
       if (!work) return;
 
-      let regex = new RegExp(filter, 'i');
-
-      if (regex.test(work.name) || regex.test(work.info.block) || regex.test(work.info.room) || regex.test(work.info.section)) {
+      if (regex.test(work.name) || regex.test(work.info.block) || regex.test(work.info.room) || regex.test(work.info.section) || regex.test(work.info.timetable)) {
         list.push(work);
       }
     });
@@ -65,6 +65,22 @@ let applyFilter = () => {
   setTimeout(() => {
     processList();
   }, 1e3);
+};
+
+let timetableFilter = (value, target) => {
+  let selected = document.querySelectorAll('.timetable > div.mdl-color--primary');
+
+  selected.forEach(element => {
+    element.classList.remove('mdl-color--primary');
+  });
+
+  target.classList.add('mdl-color--primary');
+
+  listFilter.value = value;
+
+  listFilter.focus();
+
+  applyFilter();
 };
 
 document.addEventListener('DOMContentLoaded', () => {

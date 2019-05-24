@@ -41,5 +41,22 @@ let getSections = (timetable_name) => {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-  getSections('1º Horário');
+  let now = new Date();
+  let timetable_name = '1º Horário';
+
+  /*
+  Primeiro - 8:30 até 10:40
+  Segundo - 11:20 até 13:30
+  Terceiro - 15:00 até 17:10
+  */
+
+  if (now.getDate() === 25) {
+    if (now.getHours() >= 15) {
+      timetable_name = '3º Horário';
+    } else if (now.getHours() >= 11 && now.getMinutes() >= 20) {
+      timetable_name = '2º Horário';
+    }
+  }
+
+  getSections(timetable_name);
 });

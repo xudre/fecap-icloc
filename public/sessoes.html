@@ -50,6 +50,36 @@
     </header>
 
     <section>
+      <div class="timetable">
+        <div class="mdl-js-ripple-effect" onclick="timetableFilter('1º Horário', this)">
+          <h4>
+            1º Horário
+          </h4>
+          <p>
+            8:30 até 10:40
+          </p>
+          <span class="mdl-ripple"></span>
+        </div>
+        <div class="mdl-js-ripple-effect" onclick="timetableFilter('2º Horário', this)">
+          <h4>
+            2º Horário
+          </h4>
+          <p>
+            11:20 até 13:30
+          </p>
+          <span class="mdl-ripple"></span>
+        </div>
+        <div class="mdl-js-ripple-effect" onclick="timetableFilter('3º Horário', this)">
+          <h4>
+            3º Horário
+          </h4>
+          <p>
+            15:00 até 17:10
+          </p>
+          <span class="mdl-ripple"></span>
+        </div>
+      </div>
+
       <div class="filter">
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
           <input class="mdl-textfield__input" type="text" id="workFilter" onchange="applyFilter()">
