@@ -24,18 +24,17 @@
   <script defer src="https://www.gstatic.com/firebasejs/6.0.2/firebase-database.js"></script>
   <script defer src="./js/firebase-init.js"></script>
 
+  <script defer src="./js/scripts.js"></script>
   <script defer src="./js/home.js"></script>
 </head>
 
 <body>
 
 <div class="app-layout mdl-layout mdl-js-layout">
-  <header class="mdl-layout__header mdl-layout__header--transparent">
-  </header>
   <div class="mdl-layout__drawer">
     <span class="mdl-layout-title">iCloc 2019</span>
     <nav class="mdl-navigation">
-      <a class="mdl-navigation__link selected" href="./index.html">Principal</a>
+      <a class="mdl-navigation__link mdl-color-text--primary selected" href="./index.html">Principal</a>
       <a class="mdl-navigation__link" href="./sessoes.html">Sessões</a>
       <a class="mdl-navigation__link" href="./sobre.html">Sobre</a>
       <a class="mdl-navigation__link" href="./localizacao.html">Localização</a>
@@ -43,42 +42,56 @@
   </div>
   <main class="mdl-layout__content">
 
-    <section class="banner mdl-color--primary"></section>
+    <section class="banner mdl-color--primary">
+      <div></div>
+      <h1>iCloc 2019</h1>
+    </section>
 
-    <section class="palestras">
+    <section class="sessoes">
       <h6>Próximas Sessões</h6>
 
-      <ul>
-        <div id="load1" class="mdl-progress mdl-js-progress mdl-progress__indeterminate"></div>
+      <div id="loading" class="mdl-progress mdl-js-progress mdl-progress__indeterminate hidden"></div>
 
-        <li class="mdl-js-ripple-effect">
-          <div>
-            <h3 class="mdl-color-text--primary">10h30</h3>
-            <h4>O uso de mídias sociais em sala de aula</h4>
-          </div>
+      <ul id="workList"></ul>
 
-          <i class="fas fa-chevron-right mdl-color-text--primary"></i>
-
-          <span class="mdl-ripple"></span>
-        </li>
-      </ul>
-
-      <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-button--colored">
+      <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-button--colored more" href="./sessoes.html">
         Ver mais
-      </button>
+      </a>
     </section>
 
     <section class="info">
       <a class="mdl-color--primary mdl-js-ripple-effect" href="./sobre.html">
+        <div></div>
+
+        <i class="fas fa-rocket"></i>
+
         <span class="mdl-ripple"></span>
       </a>
 
       <a class="mdl-color--primary mdl-js-ripple-effect" href="./localizacao.html">
+        <div></div>
+
+        <i class="fas fa-map-marked-alt"></i>
+
         <span class="mdl-ripple"></span>
       </a>
     </section>
 
   </main>
+</div>
+
+<div class="hidden">
+  <li id="workTemplate" class="mdl-js-ripple-effect">
+    <div>
+      <h3 class="mdl-color-text--primary"></h3>
+      <h4></h4>
+      <h5></h5>
+    </div>
+
+    <i class="fas fa-chevron-right mdl-color-text--primary"></i>
+
+    <span class="mdl-ripple"></span>
+  </li>
 </div>
 
 </body>

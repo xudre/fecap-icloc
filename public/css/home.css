@@ -4,16 +4,33 @@ section {
 }
 
 section.banner {
-  height: 30vh;
-  background-color: green;
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  height: 25vh;
 }
 
-section.palestras {
-
+section.banner > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('../images/fecap-facade.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: .25;
+  z-index: 1;
 }
 
-section.palestrantes {
-
+section.banner > h1 {
+  position: relative;
+  color: white;
+  font-size: 2rem;
+  text-shadow: 0 2px 3px rgba(0,0,0,.5);
+  margin-left: 2rem;
+  z-index: 10;
 }
 
 section.info {
@@ -23,10 +40,14 @@ section.info {
 }
 
 section.info a {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: relative;
   width: 50%;
   height: 25vh;
+  font-size: 5rem;
+  text-decoration: none;
   overflow: hidden;
   box-sizing: border-box;
 }
@@ -39,62 +60,37 @@ section.info a:nth-child(2) {
   border-left: 2px solid white;
 }
 
+section.info a:nth-child(1) > div {
+  background-image: url('../images/fecap-facade2.jpg');
+}
+
+section.info a:nth-child(2) > div {
+  background-image: url('../images/map-preview.jpg');
+}
+
+section.info a > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: .25;
+  z-index: 1;
+}
+
+section.info a > i {
+  display: block;
+  color: white;
+}
+
 section h6 {
   width: 100%;
   padding: 0 1rem;
 }
 
-section ul {
-  width: 100%;
-}
-
-section ul li {
-  display: flex;
-  position: relative;
-  padding: 1rem;
-  overflow: hidden;
-}
-
-section ul li div {
-  width: 100%;
-}
-
-section ul li h3 {
-  margin-top: 0;
-}
-
-section ul li h4 {
-  margin-bottom: 0;
-}
-
-section ul li i {
-  font-size: 2rem;
-  line-height: 40px !important;
-}
-
-section button {
+section .more {
   flex: auto;
   margin: 1rem 1rem 0 50vw !important;
-}
-
-section.palestrantes li > div:first-child {
-  min-width: 40px;
-  max-width: 40px;
-  height: 40px;
-  text-align: center;
-  color: white;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-radius: 50%;
-  margin-right: 1rem;
-}
-
-section.palestrantes li > div:first-child i {
-  font-size: 1.5rem;
-}
-
-section.palestrantes li h3 {
-  width: 100%;
-  margin-bottom: 0;
 }

@@ -23,6 +23,7 @@
   <script defer src="https://www.gstatic.com/firebasejs/6.0.2/firebase-app.js"></script>
   <script defer src="https://www.gstatic.com/firebasejs/6.0.2/firebase-database.js"></script>
   <script defer src="./js/firebase-init.js"></script>
+  <script defer src="./js/scripts.js"></script>
 
   <script defer src="./js/sessoes.js"></script>
 </head>
@@ -30,20 +31,52 @@
 <body>
 
 <div class="app-layout mdl-layout mdl-js-layout">
-  <header class="mdl-layout__header mdl-layout__header--transparent">
-  </header>
   <div class="mdl-layout__drawer">
     <span class="mdl-layout-title">iCloc 2019</span>
     <nav class="mdl-navigation">
       <a class="mdl-navigation__link" href="./index.html">Principal</a>
-      <a class="mdl-navigation__link selected" href="./sessoes.html">Sessões</a>
+      <a class="mdl-navigation__link mdl-color-text--primary selected" href="./sessoes.html">Sessões</a>
       <a class="mdl-navigation__link" href="./sobre.html">Sobre</a>
       <a class="mdl-navigation__link" href="./localizacao.html">Localização</a>
     </nav>
   </div>
   <main class="mdl-layout__content">
+    <header>
+      <a href="javascript: history.back();"><i class="fas fa-arrow-left"></i></a>
 
+      <h1 class="mdl-color-text--primary">Sessões</h1>
+
+      <s></s>
+    </header>
+
+    <section>
+      <div class="filter">
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+          <input class="mdl-textfield__input" type="text" id="workFilter" onchange="applyFilter()">
+          <label class="mdl-textfield__label" for="sample4">Filtro...</label>
+        </div>
+      </div>
+
+      <div id="loading" class="mdl-progress mdl-js-progress mdl-progress__indeterminate hidden"></div>
+
+      <ul id="workList"></ul>
+
+    </section>
   </main>
+</div>
+
+<div class="hidden">
+  <li id="workTemplate" class="mdl-js-ripple-effect">
+    <div>
+      <h3 class="mdl-color-text--primary"></h3>
+      <h4></h4>
+      <h5></h5>
+    </div>
+
+    <i class="fas fa-chevron-right mdl-color-text--primary"></i>
+
+    <span class="mdl-ripple"></span>
+  </li>
 </div>
 
 </body>
