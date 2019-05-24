@@ -67,4 +67,6 @@ let applyFilter = () => {
   }, 1e3);
 };
 
-getContent();
+document.addEventListener('DOMContentLoaded', () => {
+  getContent();
+});

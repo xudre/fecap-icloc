@@ -40,4 +40,6 @@ let getSections = (timetable_name) => {
   });
 };
 
-getSections('1º Horário');
+document.addEventListener('DOMContentLoaded', () => {
+  getSections('1º Horário');
+});
