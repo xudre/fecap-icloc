@@ -54,7 +54,7 @@ let applyFilter = () => {
     listFull.forEach(work => {
       if (!work) return;
 
-      let regex = new RegExp(filter);
+      let regex = new RegExp(filter, 'i');
 
       if (regex.test(work.name) || regex.test(work.info.block) || regex.test(work.info.room) || regex.test(work.info.section)) {
         list.push(work);

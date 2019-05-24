@@ -1,3 +1,41 @@
 .app-layout .mdl-layout__drawer-button {
   color: black;
 }
+
+.fecap1, .fecap2, .team {
+  width: 100%;
+  height: 25vh;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+}
+
+.fecap1 {
+  background-image: url('../images/fecap-facade.jpg');
+}
+
+.fecap2 {
+  background-image: url('../images/fecap-facade2.jpg');
+}
+
+.team {
+  background-image: url('../images/fecap-team.jpg');
+  margin-bottom: 0;
+}
+
+h4 {
+  padding: 0 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+  padding: 0 1rem;
+}
+
+b {
+  font-weight: bold;
+}
+
+ul {
+  padding: 0 1rem 2rem;
+}

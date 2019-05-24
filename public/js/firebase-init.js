@@ -1,7 +1,7 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
   apiKey: "AIzaSyCsRKOHn2tvvx69k9EtKUrMAubcguOE68k",
-  authDomain: "icloc-fecap.firebaseapp.com",
+  authDomain: "icloc-fecap.web.app",
   databaseURL: "https://icloc-fecap.firebaseio.com",
   projectId: "icloc-fecap",
   storageBucket: "icloc-fecap.appspot.com",
